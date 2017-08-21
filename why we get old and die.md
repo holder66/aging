@@ -1,3 +1,7 @@
+# Why we get old and die, and what to do about it
+
+#### This is the text of a talk given to members of the Westmount Rotary Club, 2017-6-14
+
 The diseases of aging include cancer, heart disease, dementia, arthritis, cataracts, osteoporosis, and stroke. Oh, and type 2 diabetes.
 
 It is likely that all of us have relatives or friends with these afflictions. Possibly even ourselves! 
@@ -9,6 +13,7 @@ Here’s my story. Since grade school, I’ve been overweight. It affected my sp
 
 Then, in 1972, I read this book by a New York city cardiologist, Dr. Robert Atkins.
 “Dr. Atkins’ Diet Revolution: The High Calorie Way to Stay Thin Forever.”
+![Image of book cover](https://i.pinimg.com/236x/81/c0/b6/81c0b6b29a85a33fa8092344b82f974e.jpg)
  
 At the time, there was a great deal of controversy about this diet. It was condemned by pretty well the entire medical establishment. But that just stimulated my contrarian nature! I looked up the references in his book. Journal articles reporting solid research. No “alternative facts”! 
 
