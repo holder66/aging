@@ -32,7 +32,9 @@ Insulin was successfully isolated only in 1922. A Canadian discovery, no less! C
 Prior to this game-changing discovery, children with what we now call Type 1 Diabetes would invariably die at a young age from their disease, also called Juvenile Onset Diabetes, or sometimes insulin-dependent diabetes. (I gotta say, wouldn’t it be nice if the doctors could at least agree on terminology?) No matter how much they ate, even 10,000 calories a day, these kids would lose weight, waste away, and literally starve to death. All because they were unable to make their own insulin. After 1922, insulin injections literally saved lives!
 
 The take-away message? For weight gain or loss, it’s not how much you eat, it’s what you eat that counts. Because what you eat controls how much insulin your body produces.
-Sorry! I couldn’t resist this cartoon!
+
+I couldn’t resist this cartoon! Sorry!![Cartoon](https://greenermums.files.wordpress.com/2013/03/you-are-what-you-eat.jpg)
+
 
 OK, what do we eat? Here’s the nitty-gritty. Our diets are made up of just three macronutrients: protein, fat, and carbohydrate.
 
@@ -40,11 +42,22 @@ Eating carbs stimulates insulin secretion. Protein does too, but less. Fat by it
 
 So, what are carbs? Sugars..., starches, and... No, that's it. Just sugars and starches! 
 
-There’s added sugars, and natural sugars found in fruits and many vegetables, and then there’s starches found in foods like breads, pastas, grains, beans, and root vegetables.
+There’s added sugars,
+![Added sugars](https://www.fda.gov/ucm/groups/fdagov-public/documents/image/ucm387303.png)
 
-OK, I lied. Sorry! Besides sugars and starches, there’s also a kind of carbohydrate called fibre. But because fibre is not absorbed in our gut, it’s not considered a nutrient.
+and natural sugars found in fruits and many vegetables,![Natural sugars](http://goldfish2care4.com/images/fruit-veggies.jpg) 
+
+and then there’s starches found in foods like breads, pastas, grains, beans, and root vegetables.![Starches](http://images.wisegeek.com/bread-and-grains.jpg)
+
+OK, I lied. Sorry! Besides sugars and starches, there’s also a kind of carbohydrate called fibre.
+
+![Fibre](https://familydoctor.org/wp-content/uploads/1995/02/shutterstock_493514698-705x467.jpg)
+
+But because fibre is not absorbed in our gut, it’s not considered a nutrient.
 
 It’s important to note that Dr. Atkins said to replace carbs with fibre from fruits and vegetables, with dietary fats and oils, and with some protein. But starting about 1985, doctors began saying that fats in our food were bad and contributed to cancer and heart disease. This message caused the American people to have a terrible fear of dietary fat.
+
+![Fat free foods](https://bodybalance4you.files.wordpress.com/2013/06/fat-free-food.jpg)
 
 Fat phobia was king for at least 20 years! 
 
@@ -76,11 +89,15 @@ When I ask experts in the field about how the new theory works, they mumble abou
 
 And why would I, a geriatric psychiatrist, even care? It turns out that there is a convergence between my personal interest in dealing with overweight, and my professional interest in dealing with a condition I see very commonly in my line of work. What condition is that? Dementia.
 
-I see it a lot for two reasons: one, dementia frequently causes behaviour or emotional disturbances; and two, dementia is extremely common in old age. How common? Have a look at this graph. 
+I see it a lot for two reasons: one, dementia frequently causes behaviour or emotional disturbances; and two, dementia is extremely common in old age. How common? Have a look at this graph, from the British Medical Journal. 
+
+![Dementia prevalence graph](http://static.www.bmj.com/content/bmj/310/6985/970/F2.medium.gif)
 
 It shows the percentage of people at any given age who have dementia. You can see that as people get older, the percentage increases very steeply.
 
-We can extrapolate to see at what age the prevalence of Alzheimer’s dementia would be 50%. Turns out that at age 101, 50%, that is, half of the people who are aged 101, would have Alzheimer’s!
+We can extrapolate to see at what age the prevalence of Alzheimer’s dementia would be 50%. 
+![Alzheimer prevalence extended](https://github.com/holder66/aging/blob/master/Alzheimer%20prevalence%20at%20age%20101.png)
+Turns out that at age 101, 50%, that is, half of the people who are aged 101, would have Alzheimer’s!
 
 For people over 100 years of age, dementia is not abnormal. You cannot call something abnormal if more than half of the people have it! In fact, NOT having dementia is the abnormal condition for centenarians!
 
