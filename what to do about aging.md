@@ -1,4 +1,6 @@
-# Handout for talk to Westmount Rotary Club, 2017-6-14: # “Why we get old and die, and what to do about it”  
+# Handout for talk to Westmount Rotary Club, 2017-6-14:
+
+# “Why we get old and die, and what to do about it”  
 
  ## Executive Summary 
 
@@ -10,25 +12,25 @@
 
  The first list of interventions in support of healthy longevity is broken down into dietary interventions, other interventions, and medications. The second list consists of things which promote aging and the conditions of aging, and are thus things to avoid. 
 
- Please note that some of the interventions which promote healthy longevity, may also impair growth and development, and should thus to be avoided by younger individuals. However, the things which promote aging and the conditions of aging may be bad for us at any age, particularly if engaged in excessively. 
+Please note that some of the interventions which promote healthy longevity, may also impair growth and development, and should thus to be avoided by younger individuals. However, the things which promote aging and the conditions of aging may be bad for us at any age, particularly if engaged in excessively. 
 
- Because everyone is different, what I say should not be interpreted as medical advice as it may or may not apply to your particular situation. 
+Because everyone is different, what I say should not be interpreted as medical advice as it may or may not apply to your particular situation. 
 
-  ## Interventions for healthy longevity 
+## Interventions for healthy longevity 
 
- ### Diet 
+### Diet 
 
- #### Caloric restriction 
+#### Caloric restriction 
 
- During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of caloric restriction on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
+During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of caloric restriction on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
 
- Caloric restriction was subsequently studied in a variety of species {Speakman et al., 2016, #45931} and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
+Caloric restriction was subsequently studied in a variety of species {Speakman et al., 2016, #45931} and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
 
- Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate insulin secretion. Thus, caloric restriction powerfully reduces insulin levels {Fontana et al., 2004, #86562}. 
+Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate insulin secretion. Thus, caloric restriction powerfully reduces insulin levels {Fontana et al., 2004, #86562}. 
 
- #### Methionine restriction 
+#### Methionine restriction 
 
- Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan {Perrone et al., 2012, #54508}. Paradoxically, MR increases appetite and food intake {Orentreich et al., 1993, #62408}, while at the same time increasing energy expenditure (EE) {Plaisance et al., 2011, #64232} resulting in weight loss overall {Perrone et al., 2012, #54508}. The exact mechanisms involved remain to be elucidated. 
+Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan {Perrone et al., 2012, #54508}. Paradoxically, MR increases appetite and food intake {Orentreich et al., 1993, #62408}, while at the same time increasing energy expenditure (EE) {Plaisance et al., 2011, #64232} resulting in weight loss overall {Perrone et al., 2012, #54508}. The exact mechanisms involved remain to be elucidated. 
 
  Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction {McCarty et al., 2009, #17517}. 
 
@@ -241,7 +243,7 @@
  #### Short sleep or shift work 
 
  Both of these conditions result in increased light exposure, thus less melatonin, and consequently higher insulin levels. Shift work has been extensively studied in female workers, in whom the risk of breast cancer is increased by 40% compared to women who do not do shift work. 
-
+<pmid-number>	::= "PMID" <spaces> <digits>
   
 
  ## References 
