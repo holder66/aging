@@ -13,6 +13,7 @@ Here’s my story. Since grade school, I’ve been overweight. It affected my sp
 
 Then, in 1972, I read this book by a New York city cardiologist, Dr. Robert Atkins.
 “Dr. Atkins’ Diet Revolution: The High Calorie Way to Stay Thin Forever.”
+
 ![Image of book cover](https://i.pinimg.com/236x/81/c0/b6/81c0b6b29a85a33fa8092344b82f974e.jpg)
  
 At the time, there was a great deal of controversy about this diet. It was condemned by pretty well the entire medical establishment. But that just stimulated my contrarian nature! I looked up the references in his book. Journal articles reporting solid research. No “alternative facts”! 
@@ -33,7 +34,9 @@ Prior to this game-changing discovery, children with what we now call Type 1 Dia
 
 The take-away message? For weight gain or loss, it’s not how much you eat, it’s what you eat that counts. Because what you eat controls how much insulin your body produces.
 
-I couldn’t resist this cartoon! Sorry!![Cartoon](https://greenermums.files.wordpress.com/2013/03/you-are-what-you-eat.jpg)
+I couldn’t resist this cartoon! Sorry!
+
+![Cartoon](https://greenermums.files.wordpress.com/2013/03/you-are-what-you-eat.jpg)
 
 
 OK, what do we eat? Here’s the nitty-gritty. Our diets are made up of just three macronutrients: protein, fat, and carbohydrate.
@@ -43,11 +46,16 @@ Eating carbs stimulates insulin secretion. Protein does too, but less. Fat by it
 So, what are carbs? Sugars..., starches, and... No, that's it. Just sugars and starches! 
 
 There’s added sugars,
+
 ![Added sugars](https://www.fda.gov/ucm/groups/fdagov-public/documents/image/ucm387303.png)
 
-and natural sugars found in fruits and many vegetables,![Natural sugars](http://goldfish2care4.com/images/fruit-veggies.jpg) 
+and natural sugars found in fruits and many vegetables,
 
-and then there’s starches found in foods like breads, pastas, grains, beans, and root vegetables.![Starches](http://images.wisegeek.com/bread-and-grains.jpg)
+![Natural sugars](http://goldfish2care4.com/images/fruit-veggies.jpg) 
+
+and then there’s starches found in foods like breads, pastas, grains, beans, and root vegetables.
+
+![Starches](http://images.wisegeek.com/bread-and-grains.jpg)
 
 OK, I lied. Sorry! Besides sugars and starches, there’s also a kind of carbohydrate called fibre.
 
@@ -96,19 +104,26 @@ I see it a lot for two reasons: one, dementia frequently causes behaviour or emo
 It shows the percentage of people at any given age who have dementia. You can see that as people get older, the percentage increases very steeply.
 
 We can extrapolate to see at what age the prevalence of Alzheimer’s dementia would be 50%. 
+
 ![Alzheimer prevalence extended](https://github.com/holder66/aging/blob/master/Alzheimer%20prevalence%20at%20age%20101.png)
+
 Turns out that at age 101, 50%, that is, half of the people who are aged 101, would have Alzheimer’s!
 
 For people over 100 years of age, dementia is not abnormal. You cannot call something abnormal if more than half of the people have it! In fact, NOT having dementia is the abnormal condition for centenarians!
 
 In medical school we were also taught that if a deleterious condition remains common in the population, that is, evolution has not selected against it, it is probably because having that deleterious condition confers some sort of advantage. The example used was sickle cell anemia, a genetic condition common in Africa.
 
+![Sickle cell](http://www.livescience.com/images/i/000/005/671/i02/sickle-red-blood-cell-100801-02.jpg?1296085041)
 
 On the left is a normal red blood cell; the other one is a sickle cell.
 
 Sickle cell anemia is believed to remain common because it helps protect against malaria.
 
-This malaria parasite is attacking a red blood cell. Ooooh, creepy! Reminds me of the movie “Alien”!
+This malaria parasite is attacking a red blood cell. 
+
+![Malaria parasite](http://www.redorbit.com/media/uploads/2013/12/Malaria-Parasite_SS_121713.jpg)
+
+Ooooh, creepy! Reminds me of the movie “Alien”!
 
 OK, back to dementia. 
 
@@ -122,7 +137,11 @@ Could evolution have built in these conditions of aging with the goal of knockin
 
 Here’s how I look at it. I believe that by knocking off the eldest members of a species, evolution improves the chances for the youngest generation to survive and have offspring. In an environment which is constantly changing, the youngest generation is the one most evolved to thrive in its environment. So the diseases of aging benefit the species, not the individual.
 
-This should not be surprising. In his book “Antifragile”, economist and philosopher Nassim Taleb spelled out how general this idea is. 
+This should not be surprising. In his book “Antifragile”, 
+
+![Antifragile book](http://d.gr-assets.com/books/1352422827l/13530973.jpg)
+
+economist and philosopher Nassim Taleb spelled out how general this idea is. 
 
 For example: the Montreal restaurant scene is very healthy; there are lots of great places to eat, in every price range. What makes it great? Competition. And competition works because less successful restaurants go out of business. They have to die in order for the whole restaurant scene to be robust and healthy. Sounds like elderly individuals dying for the good of the species, doesn’t it?
 
