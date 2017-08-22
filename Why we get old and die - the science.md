@@ -9,4 +9,4 @@ Sperm competition occurs after females mate with multiple males whose sperm comp
 
 [1]: http://henry.olders.ca
 <b id="f1">1</b> Mollie K. Manier, John M. Belote, Kirstin S. Berben, David Novikov, Will T. Stuart, and Scott Pitnick. Resolving mechanisms of competitive fertilization success in Drosophila melanogaster.  Science 328, 354-357 (2010). [↩](#a1)
-[2]: <a>reference 2</a>
+[2](reference 2)
