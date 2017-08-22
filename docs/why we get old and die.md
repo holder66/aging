@@ -105,7 +105,7 @@ It shows the percentage of people at any given age who have dementia. You can se
 
 We can extrapolate to see at what age the prevalence of Alzheimer’s dementia would be 50%. 
 
-![Alzheimer prevalence extended](https://github.com/holder66/aging/blob/master/Alzheimer%20prevalence%20at%20age%20101.png)
+![Alzheimer prevalence extended](images/Alzheimer%20prevalence%20at%20age%20101.png)
 
 Turns out that at age 101, 50%, that is, half of the people who are aged 101, would have Alzheimer’s!
 
