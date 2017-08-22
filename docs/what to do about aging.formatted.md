@@ -30,11 +30,11 @@ Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary pro
 
 #### Methionine restriction 
 
-Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [<a id="a3">[3](#f3)</a>]. Paradoxically, MR increases appetite and food intake [<a id="a4">[4](#f4)</a>], while at the same time increasing energy expenditure (EE) [<a id="a5">[5](#f5)</a>] resulting in weight loss overall [ ]. The exact mechanisms involved remain to be elucidated. 
+Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [<a id="a3">[3](#f3)</a>]. Paradoxically, MR increases appetite and food intake [<a id="a4">[4](#f4)</a>], while at the same time increasing energy expenditure (EE) [<a id="a5">[5](#f5)</a>] resulting in weight loss overall [<a id="a6">[6](#f6)</a>]. The exact mechanisms involved remain to be elucidated. 
 
  Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [<a id="a7">[7](#f7)</a>]. 
 
- As an EAA, methionine is necessary for young animals to grow and reproduce [<a id="a8">[8](#f8)</a>]. Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [<a id="a9">[9](#f9)</a>]. Thus, restricting its intake may help to slow down aging and aging-related diseases [<a id="a10">[10](#f10)</a>] including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and insulin-like growth factor signalling [ ]. 
+ As an EAA, methionine is necessary for young animals to grow and reproduce [<a id="a8">[8](#f8)</a>]. Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [<a id="a9">[9](#f9)</a>]. Thus, restricting its intake may help to slow down aging and aging-related diseases [<a id="a10">[10](#f10)</a>] including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and insulin-like growth factor signalling [<a id="a11">[11](#f11)</a>]. 
 
  Animal products are highest in methionine content, both because animal proteins have a relatively high percentage of methionine, and because their protein content is usually also high. Nuts are next highest, followed by grains and legumes. Other vegetables are lower, and fruits are the lowest of all. The range goes from 1 mg methionine per 100 g of apple, to over 1000 mg per 100 g for beef and parmesan cheese. 
 
@@ -100,7 +100,7 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### Cannabis 
 
- Marijuana smokers have lower rates of obesity, metabolic syndrome, and diabetes in cross-sectional studies [<a id="a43">[43](#f43)</a>]. There is also evidence that cannabinoids may have anticancer activity [<a id="a44">[44](#f44)</a>; <a id="a45">[45](#f45)</a>] but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells [ ]. 
+ Marijuana smokers have lower rates of obesity, metabolic syndrome, and diabetes in cross-sectional studies [<a id="a43">[43](#f43)</a>]. There is also evidence that cannabinoids may have anticancer activity [<a id="a44">[44](#f44)</a>; <a id="a45">[45](#f45)</a>] but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells [<a id="a46">[46](#f46)</a>]. 
 
  #### Frying foods in extra-virgin olive oil 
 
@@ -172,7 +172,7 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### Magnesium 
 
- Low magnesium intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated C-reactive protein, hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [<a id="a73">[73](#f73)</a>]. The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount [ ]. The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [<a id="a75">[75](#f75)</a>]. As the healthy kidney is very effective at excreting magnesium, hypermagnesaemia is uncommon. 
+ Low magnesium intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated C-reactive protein, hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [<a id="a73">[73](#f73)</a>]. The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount [<a id="a74">[74](#f74)</a>]. The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [<a id="a75">[75](#f75)</a>]. As the healthy kidney is very effective at excreting magnesium, hypermagnesaemia is uncommon. 
 
  Supplemental magnesium for 12 weeks has been shown to improve physical performance in healthy elderly women [<a id="a76">[76](#f76)</a>]. 
 
@@ -184,7 +184,7 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  Dietary boron reduces insulin levels in chicks and rats [<a id="a79">[79](#f79)</a>]. 
 
- It is believed that boron intake needs to be 3 mg/day or higher [ ]. The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults (U.S. National Library of Medicine). I take a supplement of 3 mg every other day. 
+ It is believed that boron intake needs to be 3 mg/day or higher [<a id="a80">[80](#f80)</a>]. The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults (U.S. National Library of Medicine). I take a supplement of 3 mg every other day. 
 
   ## Things to avoid 
 
@@ -239,7 +239,7 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
  #### Blue light at night 
 
  Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes [<a id="a96">[96](#f96)</a>]. The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion [<a id="a97">[97](#f97)</a>], exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
- [Touitou et al, 2017](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594)
+ 
  #### Short sleep or shift work 
 
  Both of these conditions result in increased light exposure, thus less melatonin, and consequently higher insulin levels. Shift work has been extensively studied in female workers, in whom the risk of breast cancer is increased by 40% compared to women who do not do shift work. 
@@ -251,19 +251,19 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  <b id="f2">2</b> Fontana L, Meyer TE, Klein S, Holloszy JO. Long-term calorie restriction is highly effective in reducing the risk for atherosclerosis in humans. Proc Natl Acad Sci U S A. 2004;101:6659-6663.[↩](#a2) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15096581)
 
- <b id="f3">3</b> Orentreich N, Matias JR, DeFelice A, Zimmerman JA. Low methionine ingestion by rats extends life span. J Nutr. 1993;123:269-274.[↩](#a3) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8429371)
+ <b id="f3">3</b> Perrone CE, Malloy VL, Orentreich DS, Orentreich N. Metabolic adaptations to methionine restriction that benefit health and lifespan in rodents. Exp Gerontol. 2013;48:654-660.[↩](#a3) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22819757)
 
- <b id="f4">4</b> Plaisance EP, Greenway FL, Boudreau A et al. Dietary methionine restriction increases fat oxidation in obese adults with metabolic syndrome. J Clin Endocrinol Metab. 2011;96:E836-40.[↩](#a4) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21346062)
+ <b id="f4">4</b> Orentreich N, Matias JR, DeFelice A, Zimmerman JA. Low methionine ingestion by rats extends life span. J Nutr. 1993;123:269-274.[↩](#a4) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8429371)
 
- <b id="f5">5</b> McCarty MF, Barroso-Aranda J, Contreras F. The low-methionine content of vegan diets may make methionine restriction feasible as a life extension strategy. Med Hypotheses. 2009;72:125-128.[↩](#a5) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18789600)
+ <b id="f5">5</b> Plaisance EP, Greenway FL, Boudreau A et al. Dietary methionine restriction increases fat oxidation in obese adults with metabolic syndrome. J Clin Endocrinol Metab. 2011;96:E836-40.[↩](#a5) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21346062)
 
- <b id="f6">6</b> Narita K, Nagao K, Bannai M et al. Dietary deficiency of essential amino acids rapidly induces cessation of the rat estrous cycle. PLoS One. 2011;6:e28136.[↩](#a6) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22132231)
+ <b id="f6">6</b> McCarty MF, Barroso-Aranda J, Contreras F. The low-methionine content of vegan diets may make methionine restriction feasible as a life extension strategy. Med Hypotheses. 2009;72:125-128.[↩](#a6) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18789600)
 
- <b id="f7">7</b> Grandison RC, Piper MD, Partridge L. Amino-acid imbalance explains extension of lifespan by dietary restriction in Drosophila. Nature. 2009;462:1061-1064.[↩](#a7) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19956092)
+ <b id="f7">7</b> Narita K, Nagao K, Bannai M et al. Dietary deficiency of essential amino acids rapidly induces cessation of the rat estrous cycle. PLoS One. 2011;6:e28136.[↩](#a7) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22132231)
 
- <b id="f8">8</b> Spindler SR. Caloric restriction: from soup to nuts. Ageing Res Rev. 2010;9:324-353.[↩](#a8) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19853062)
+ <b id="f8">8</b> Grandison RC, Piper MD, Partridge L. Amino-acid imbalance explains extension of lifespan by dietary restriction in Drosophila. Nature. 2009;462:1061-1064.[↩](#a8) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19956092)
 
- <b id="f9">9</b> Perrone CE, Malloy VL, Orentreich DS, Orentreich N. Metabolic adaptations to methionine restriction that benefit health and lifespan in rodents. Exp Gerontol. 2013;48:654-660.[↩](#a9) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22819757)
+ <b id="f9">9</b> Spindler SR. Caloric restriction: from soup to nuts. Ageing Res Rev. 2010;9:324-353.[↩](#a9) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19853062)
 
  <b id="f10">10</b> Forney LA, Wanders D, Stone KP, Pierse A, Gettys TW. Concentration-dependent linkage of dietary methionine restriction to the components of its metabolic phenotype. Obesity (Silver Spring). 2017;25:730-738.[↩](#a10) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28261952)
 
@@ -329,9 +329,9 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  <b id="f41">41</b> Sidney S. Marijuana Use and Type 2 Diabetes Mellitus: a Review. Curr Diab Rep. 2016;16:117.[↩](#a41) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27747490)
 
- <b id="f42">42</b> Velasco G, Sánchez C, Guzmán M. Anticancer mechanisms of cannabinoids. Curr Oncol. 2016;23:S23-32.[↩](#a42) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27022311)
+ <b id="f42">42</b> Davis MP. Cannabinoids for Symptom Management and Cancer Therapy: The Evidence. J Natl Compr Canc Netw. 2016;14:915-922.[↩](#a42) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27407130)
 
- <b id="f43">43</b> Davis MP. Cannabinoids for Symptom Management and Cancer Therapy: The Evidence. J Natl Compr Canc Netw. 2016;14:915-922.[↩](#a43) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27407130)
+ <b id="f43">43</b> Velasco G, Sánchez C, Guzmán M. Anticancer mechanisms of cannabinoids. Curr Oncol. 2016;23:S23-32.[↩](#a43) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27022311)
 
  <b id="f44">44</b> Farnetti S, Malandrino N, Luciani D, Gasbarrini G, Capristo E. Food fried in extra-virgin olive oil improves postprandial insulin response in obese, insulin-resistant women. J Med Food. 2011;14:316-321.[↩](#a44) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21142948)
 
@@ -393,9 +393,9 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  <b id="f73">73</b> Nielsen FH. Update on human health effects of boron. J Trace Elem Med Biol. 2014;28:383-387.[↩](#a73) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25063690)
 
- <b id="f74">74</b> Bakken NA, Hunt CD. Dietary boron decreases peak pancreatic in situ insulin release in chicks and plasma insulin concentrations in rats regardless of vitamin D or magnesium status. J Nutr. 2003;133:3577-3583.[↩](#a74) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14608076)
+ <b id="f74">74</b> Pizzorno L. Nothing Boring About Boron. Integr Med (Encinitas). 2015;14:35-48.[↩](#a74) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26770156)
 
- <b id="f75">75</b> Pizzorno L. Nothing Boring About Boron. Integr Med (Encinitas). 2015;14:35-48.[↩](#a75) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26770156)
+ <b id="f75">75</b> Bakken NA, Hunt CD. Dietary boron decreases peak pancreatic in situ insulin release in chicks and plasma insulin concentrations in rats regardless of vitamin D or magnesium status. J Nutr. 2003;133:3577-3583.[↩](#a75) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14608076)
 
  <b id="f76">76</b> Liang Y, Steinbach G, Maier V, Pfeiffer EF. The effect of artificial sweetener on insulin secretion. 1. The effect of acesulfame K on insulin secretion in the rat (studies in vivo). Horm Metab Res. 1987;19:233-238.[↩](#a76) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2887500)
 
