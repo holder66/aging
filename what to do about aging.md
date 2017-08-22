@@ -239,11 +239,10 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
  #### Blue light at night 
 
  Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes {Touitou et al., 2017, #41599}. The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion {Peschke et al., 2013, #69929}, exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
-
+ [Touitou et al, 2017](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594)
  #### Short sleep or shift work 
 
  Both of these conditions result in increased light exposure, thus less melatonin, and consequently higher insulin levels. Shift work has been extensively studied in female workers, in whom the risk of breast cancer is increased by 40% compared to women who do not do shift work. 
-<pmid-number>	::= "PMID" <spaces> <digits>
   
 
  ## References 
