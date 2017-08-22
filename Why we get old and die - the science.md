@@ -1,7 +1,7 @@
 # Why we get old and die - the science
 
 #### sperm competition
-Once mating has occurred, the millions of sperm compete with each other to be first to reach the oocyte. In species in which females mate in rapid succession with a variety of males, the sperm race helps select between individuals. Here is a video of that process in the fruit fly. The sperm of one male have been labelled with a green fluorescence, and the sperm of a second male labelled with red, which unfortunately is barely visible <sup id="a1">[1](#f1)</sup>
+Once mating has occurred, the millions of sperm compete with each other to be first to reach the oocyte[2]. In species in which females mate in rapid succession with a variety of males, the sperm race helps select between individuals. Here is a video of that process in the fruit fly. The sperm of one male have been labelled with a green fluorescence, and the sperm of a second male labelled with red, which unfortunately is barely visible <sup id="a1">[1](#f1)</sup>
 
 
 Fluorescent sperm in the female sperm-storage organ of Drosophila melanogaster
@@ -9,3 +9,4 @@ Sperm competition occurs after females mate with multiple males whose sperm comp
 
 [1]: http://henry.olders.ca
 <b id="f1">1</b> Mollie K. Manier, John M. Belote, Kirstin S. Berben, David Novikov, Will T. Stuart, and Scott Pitnick. Resolving mechanisms of competitive fertilization success in Drosophila melanogaster.  Science 328, 354-357 (2010). [↩](#a1)
+[2]: <a>reference 2</a>
