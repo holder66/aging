@@ -1,6 +1,6 @@
 Why we get old and die - the science
 
-Insulin and IGF-1 suppress DNA repair <a id=“a1”>[[1]](#f1)</a>; <a id=“a2”>[[2]](#f2)</a>
+Insulin and IGF-1 suppress DNA repair <a id=“a1”>[1](#f1)</a>; <a id=“a2”>[[2]](#f2)</a>
 
 Melatonin had multiple beneficial effects <a id=“a3”>[[3]](#f3)</a>
 
