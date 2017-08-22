@@ -7,31 +7,32 @@ Melatonin had multiple beneficial effects <a id=“a3”>[[3]](#f3)</a>
 Useful explanation of the various kinds of ultraviolet radiation and their effects <a id=“a4”>[[4]](#f4)</a>
 
 
+all
+all
+all
+
+all
+
+all
+
+all
+
+all
+
+all
 
 
+all
 
+all
 
+all
 
+all
 
+all
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+all
 
 <b id=“f1”>1</b> Jayanth VR, Belfi CA, Swick AR, Varnes ME. Insulin and insulin-like growth factor-1 (IGF-1) inhibit repair of potentially lethal radiation damage and chromosome aberrations and alter DNA repair kinetics in plateau-phase A549 cells. Radiat Res. 1995;143:165-174.[?](#a1) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7631009)
 
