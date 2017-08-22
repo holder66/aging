@@ -1,6 +1,6 @@
 # Why we get old and die - the science
 
-Insulin and IGF-1 suppress DNA repair [(Jayanth et al, 1995)]
+Insulin and IGF-1 suppress DNA repair [(Jayanth et al, 1995)](r4)
 
 {Podlutsky et al., 2017, #2717}
 
