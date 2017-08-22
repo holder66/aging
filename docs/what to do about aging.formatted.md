@@ -22,117 +22,117 @@ Because everyone is different, what I say should not be interpreted as medical a
 
 #### Caloric restriction 
 
-During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of [caloric restriction](https://en.wikipedia.org/wiki/Calorie_restriction) on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
+During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of caloric restriction on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
 
-Caloric restriction was subsequently studied in a variety of species [[1]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27006163) and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
+Caloric restriction was subsequently studied in a variety of species [<a id="a1">[1](#f1)</a>] and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
 
-Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate insulin secretion. Thus, caloric restriction powerfully reduces insulin levels [[2]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15096581). 
+Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate insulin secretion. Thus, caloric restriction powerfully reduces insulin levels [<a id="a2">[2](#f2)</a>]. 
 
 #### Methionine restriction 
 
-Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [[3]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22819757). Paradoxically, MR increases appetite and food intake [[4]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8429371), while at the same time increasing energy expenditure (EE) [[5]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21346062) resulting in weight loss overall. The exact mechanisms involved remain to be elucidated. 
+Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [<a id="a3">[3](#f3)</a>]. Paradoxically, MR increases appetite and food intake [<a id="a4">[4](#f4)</a>], while at the same time increasing energy expenditure (EE) [<a id="a5">[5](#f5)</a>] resulting in weight loss overall [ ]. The exact mechanisms involved remain to be elucidated. 
 
- Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [[7]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18789600). 
+ Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [<a id="a7">[7](#f7)</a>]. 
 
- As an EAA, methionine is necessary for young animals to grow and reproduce [[8]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22132231). Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [[9]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19956092). Thus, restricting its intake may help to slow down aging and aging-related diseases [[10]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19853062) including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and insulin-like growth factor signalling. 
+ As an EAA, methionine is necessary for young animals to grow and reproduce [<a id="a8">[8](#f8)</a>]. Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [<a id="a9">[9](#f9)</a>]. Thus, restricting its intake may help to slow down aging and aging-related diseases [<a id="a10">[10](#f10)</a>] including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and insulin-like growth factor signalling [ ]. 
 
  Animal products are highest in methionine content, both because animal proteins have a relatively high percentage of methionine, and because their protein content is usually also high. Nuts are next highest, followed by grains and legumes. Other vegetables are lower, and fruits are the lowest of all. The range goes from 1 mg methionine per 100 g of apple, to over 1000 mg per 100 g for beef and parmesan cheese. 
 
- The studies in experimental animals used a reduction in methionine content from 0.86% (dry weight) to 0.17%, (ie to 1/5) and recent analyses using mice suggest that the range needs to be kept between 0.12% and 0.25% [[12]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28261952). In human adults, a 2000 kcal/day diet is recommended for weight maintenance. A typical breakdown might be 20% carbohydrates, 65% fat and 15% protein by calories. This works out to 400 kcal from carbs, ie 100 g dry weight of carbs; 1300 kcal fat, or 144 g; and 300 kcal from protein, or 75 g. Thus, the total dry weight is 100+144+75=319 g. Protein contains on average 2% methionine, thus a typical diet has 75 x .02 = 1500 mg methionine. One fifth of this is 300 mg methionine daily. This is probably the target to aim for. In reality, though, many people actually eat considerably more than 75 g of protein per day. Would this raise the target? We don’t know. 
+ The studies in experimental animals used a reduction in methionine content from 0.86% (dry weight) to 0.17%, (ie to 1/5) and recent analyses using mice suggest that the range needs to be kept between 0.12% and 0.25% [<a id="a12">[12](#f12)</a>]. In human adults, a 2000 kcal/day diet is recommended for weight maintenance. A typical breakdown might be 20% carbohydrates, 65% fat and 15% protein by calories. This works out to 400 kcal from carbs, ie 100 g dry weight of carbs; 1300 kcal fat, or 144 g; and 300 kcal from protein, or 75 g. Thus, the total dry weight is 100+144+75=319 g. Protein contains on average 2% methionine, thus a typical diet has 75 x .02 = 1500 mg methionine. One fifth of this is 300 mg methionine daily. This is probably the target to aim for. In reality, though, many people actually eat considerably more than 75 g of protein per day. Would this raise the target? We don’t know. 
 
- To assist with meal planning, I’ve created an app which displays values from the Unites States Department of Agriculture nutrient database. To run the app on an Apple iPhone or iPad, first install Filemaker Go (free in the App Store), then download my app [here](http://henry.olders.ca/upload/methionine_apps/USDASR27nutrients_v1_0.fmp12) and open it in Filemaker Go. 
+ To assist with meal planning, I’ve created an app which displays values from the Unites States Department of Agriculture nutrient database. To run the app on an Apple iPhone or iPad, first install Filemaker Go (free in the App Store), then download my app here and open it in Filemaker Go. 
 
  #### Protein restriction 
 
- Studies in insects and mice have shown that low protein, high carbohydrate diets are associated with longest lifespan in ad libitum fed animals [[13]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28274839). In humans, [low protein diets](https://en.wikipedia.org/wiki/Low-protein_diet) reduce the risk for cancer and overall mortality in the population aged ≤65 [[14]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24606898); this may be due to reduced Insulin-Like Growth Factor signalling. In the 50 to 65 age range, subjects with high protein intake were more than 4 times as likely to die of cancer compared to those in the low protein group! This effect seemed almost entirely due to animal protein intake, as opposed to plant protein. This same study suggested that in those over 65 years, increased protein intake may protect against mortality. However, it is possible that this applies to frail and malnourished individuals. 
+ Studies in insects and mice have shown that low protein, high carbohydrate diets are associated with longest lifespan in ad libitum fed animals [<a id="a13">[13](#f13)</a>]. In humans, low protein diets reduce the risk for cancer and overall mortality in the population aged ≤65 [<a id="a14">[14](#f14)</a>]; this may be due to reduced Insulin-Like Growth Factor signalling. In the 50 to 65 age range, subjects with high protein intake were more than 4 times as likely to die of cancer compared to those in the low protein group! This effect seemed almost entirely due to animal protein intake, as opposed to plant protein. This same study suggested that in those over 65 years, increased protein intake may protect against mortality. However, it is possible that this applies to frail and malnourished individuals. 
 
  #### Spices 
 
- A number of spices have been shown to have positive health effects, including lifespan extension [[15]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26092628). This includes curcumin [[16]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21855561); [[17]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22773702), ginger [[18]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20420526), and capsaicin (in hot chili peppers) [[19]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19798065). 
+ A number of spices have been shown to have positive health effects, including lifespan extension [<a id="a15">[15](#f15)</a>]. This includes curcumin [<a id="a16">[16](#f16)</a>; <a id="a17">[17](#f17)</a>], ginger [<a id="a18">[18](#f18)</a>], and capsaicin (in hot chili peppers) [<a id="a19">[19](#f19)</a>]. 
 
  #### Chocolate 
 
- Dark chocolate is one of a number of foods with anti-inflammatory properties that is being investigated for anti-aging effects [[20]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24210636). In a study with postmenopausal women, dark chocolate (80%) given 90 minutes before a meal, suppressed food intake significantly more that milk or white chocolate [[21]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28572069). The white and milk chocolate caused transient increases in blood glucose and insulin levels, compared to the dark chocolate. 
+ Dark chocolate is one of a number of foods with anti-inflammatory properties that is being investigated for anti-aging effects [<a id="a20">[20](#f20)</a>]. In a study with postmenopausal women, dark chocolate (80%) given 90 minutes before a meal, suppressed food intake significantly more that milk or white chocolate [<a id="a21">[21](#f21)</a>]. The white and milk chocolate caused transient increases in blood glucose and insulin levels, compared to the dark chocolate. 
 
  #### High fibre foods 
 
- Certain foods, including plantain, burdock root, chicory root, garlic, Jerusalem artichoke, jicama, leek, and onion, have appreciable inulin content. Inulin, a non-digestible carbohydrate, is a prebiotic dietary fibre which reduces the glucose and insulin responses after meals [[22]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28255654). Another such non-digestible carbohydrate is glucomannan, found in konjac, which has been shown to promote weight loss [[23]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16320857). 
+ Certain foods, including plantain, burdock root, chicory root, garlic, Jerusalem artichoke, jicama, leek, and onion, have appreciable inulin content. Inulin, a non-digestible carbohydrate, is a prebiotic dietary fibre which reduces the glucose and insulin responses after meals [<a id="a22">[22](#f22)</a>]. Another such non-digestible carbohydrate is glucomannan, found in konjac, which has been shown to promote weight loss [<a id="a23">[23](#f23)</a>]. 
 
- Humans do not possess the enzymes necessary to break down inulin or glucomannan so they can be absorbed. However, in individuals with a healthy mix of gut bacteria, inulin and glucomannan are fermented by some of these bacteria, producing gas but also short-chain fatty acids such as butyrate [[24]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26516911), which suppresses inflammation and has other health benefits [[25]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27446020). 
+ Humans do not possess the enzymes necessary to break down inulin or glucomannan so they can be absorbed. However, in individuals with a healthy mix of gut bacteria, inulin and glucomannan are fermented by some of these bacteria, producing gas but also short-chain fatty acids such as butyrate [<a id="a24">[24](#f24)</a>], which suppresses inflammation and has other health benefits [<a id="a25">[25](#f25)</a>]. 
 
  #### Other foods 
 
- In other cultures, certain foods have been found that have an anti-obesity and anti-diabetic effect. For example, [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia), which originated in India, is widely used in China and in the Caribbean, and goes by a variety of names. It is effective in metabolic syndrome [[26]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22243626) and shows promise as an anticancer agent [[27]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27452666). 
+ In other cultures, certain foods have been found that have an anti-obesity and anti-diabetic effect. For example, bitter melon, which originated in India, is widely used in China and in the Caribbean, and goes by a variety of names. It is effective in metabolic syndrome [<a id="a26">[26](#f26)</a>] and shows promise as an anticancer agent [<a id="a27">[27](#f27)</a>]. 
 
- [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables), which include broccoli, cauliflower, kale, cabbage, brussels sprouts, turnips, kohlrabi, bok choy, and radishes, contain many compounds with anticancer activity [[29]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24982671); [[28]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25332705). 
+ Cruciferous vegetables, which include broccoli, cauliflower, kale, cabbage, brussels sprouts, turnips, kohlrabi, bok choy, and radishes, contain many compounds with anticancer activity [<a id="a29">[29](#f29)</a>; <a id="a28">[28](#f28)</a>]. 
 
- Then there are varieties of vegetables and fruits which, because of a high content of desirable [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical), may be worthwhile seeking out and consuming in preference to the regular supermarket varieties. This includes [black rice](https://en.wikipedia.org/wiki/Black_rice), purple cauliflower, [purple corn](https://en.wikipedia.org/wiki/Purple_corn), [purple potatoes](https://en.wikipedia.org/wiki/Adirondack_Blue)… 
+ Then there are varieties of vegetables and fruits which, because of a high content of desirable phytochemicals, may be worthwhile seeking out and consuming in preference to the regular supermarket varieties. This includes black rice, purple cauliflower, purple corn, purple potatoes… 
 
  ### Beverages 
 
  #### coffee 
 
- [Coffee](https://en.wikipedia.org/wiki/Coffee#Health_effects) consumption reduces risk of type 2 diabetes, certain cancers, dementia, cardiovascular disease [[30]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14706966). Coffee also reduces mortality risk [[31]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22591295). It may act through reducing insulin (by decreasing intestinal glucose absorption) [[32]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14522730). 
+ Coffee consumption reduces risk of type 2 diabetes, certain cancers, dementia, cardiovascular disease [<a id="a30">[30](#f30)</a>]. Coffee also reduces mortality risk [<a id="a31">[31](#f31)</a>]. It may act through reducing insulin (by decreasing intestinal glucose absorption) [<a id="a32">[32](#f32)</a>]. 
 
  #### green tea 
 
- Tea consumption, especially green tea, is associated with significantly reduced risks for stroke, diabetes and depression [[33]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24071782) and reduced risk of mortality [[34]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19996359). 
+ Tea consumption, especially green tea, is associated with significantly reduced risks for stroke, diabetes and depression [<a id="a33">[33](#f33)</a>] and reduced risk of mortality [<a id="a34">[34](#f34)</a>]. 
 
  #### yerba maté tea 
 
- [Yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) is a type of bush used to produce a tea that is widely consumed as an energy drink in South America. It has been fount to have anti-obesity [[35]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25621503) and anti-inflammatory [[36]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21238540) effects. 
+ Yerba maté is a type of bush used to produce a tea that is widely consumed as an energy drink in South America. It has been fount to have anti-obesity [<a id="a35">[35](#f35)</a>] and anti-inflammatory [<a id="a36">[36](#f36)</a>] effects. 
 
  #### red wine (resveratrol) 
 
- [Resveratrol](https://en.wikipedia.org/wiki/Resveratrol), a substance found in grape skins, is believed to be responsible for the beneficial effects on health of drinking red wine. It’s a polyphenol which has antioxidant, anti-inflammatory, and anti-carcinogenic effects. It increases longevity, and possibly with fewer negative effects when we’re younger than some of the other interventions [[37]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17460219); [[38]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22083438) 
+ Resveratrol, a substance found in grape skins, is believed to be responsible for the beneficial effects on health of drinking red wine. It’s a polyphenol which has antioxidant, anti-inflammatory, and anti-carcinogenic effects. It increases longevity, and possibly with fewer negative effects when we’re younger than some of the other interventions [<a id="a37">[37](#f37)</a>; <a id="a38">[38](#f38)</a>] 
 
  ### Other Interventions 
 
  #### Exercise 
 
- Aerobic exercise has been shown to decrease fasting blood glucose and fasting insulin, for example in pregnant women at risk for gestational diabetes [[39]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446846). More vigorous forms of exercise, such as interval training, have been shown to be safe in individuals with Type 2 diabetes, may provide even better glucose control, and improve compliance because of significantly reduced time requirements [[40]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28462566). 
+ Aerobic exercise has been shown to decrease fasting blood glucose and fasting insulin, for example in pregnant women at risk for gestational diabetes [<a id="a39">[39](#f39)</a>]. More vigorous forms of exercise, such as interval training, have been shown to be safe in individuals with Type 2 diabetes, may provide even better glucose control, and improve compliance because of significantly reduced time requirements [<a id="a40">[40](#f40)</a>]. 
 
  #### Cooling cooked foods 
 
- When starchy foods such as potatoes, beans, or white rice are cooled after cooking, the links between the glucose molecules in the starch are rearranged, making the starch more difficult to digest; more of the starch becomes “resistant”. This process, called [retrogradation](https://en.wikipedia.org/wiki/Retrogradation_(starch)), reduces the amount of insulin produced as a result of eating that starchy food [[41]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26693746). Additionally, the resistant starch acts as a [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)), in that it feeds gut bacteria which ferment the starch to [butyrate](https://en.wikipedia.org/wiki/Butyrate) and other short-chain fatty acids. 
+ When starchy foods such as potatoes, beans, or white rice are cooled after cooking, the links between the glucose molecules in the starch are rearranged, making the starch more difficult to digest; more of the starch becomes “resistant”. This process, called retrogradation, reduces the amount of insulin produced as a result of eating that starchy food [<a id="a41">[41](#f41)</a>]. Additionally, the resistant starch acts as a prebiotic, in that it feeds gut bacteria which ferment the starch to butyrate and other short-chain fatty acids. 
 
- This may help to explain why fried french fries produced lower glucose and insulin responses in children compared to pasta, rice, or boiled mashed potatoes in children [[42]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26878318). 
+ This may help to explain why fried french fries produced lower glucose and insulin responses in children compared to pasta, rice, or boiled mashed potatoes in children [<a id="a42">[42](#f42)</a>]. 
 
  #### Cannabis 
 
- Marijuana smokers have lower rates of obesity, [metabolic syndrome](https://en.wikipedia.org/wiki/Metabolic_syndrome), and diabetes in cross-sectional studies [[43]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27747490). There is also evidence that cannabinoids may have anticancer activity [[44]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27407130); [[45]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27022311) but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells  . 
+ Marijuana smokers have lower rates of obesity, metabolic syndrome, and diabetes in cross-sectional studies [<a id="a43">[43](#f43)</a>]. There is also evidence that cannabinoids may have anticancer activity [<a id="a44">[44](#f44)</a>; <a id="a45">[45](#f45)</a>] but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells [ ]. 
 
  #### Frying foods in extra-virgin olive oil 
 
- Reduces insulin in obese insulin-resistant women [[47]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21142948) 
+ Reduces insulin in obese insulin-resistant women [<a id="a47">[47](#f47)</a>] 
 
  #### Stress 
 
- Most of the lifespan-prolonging interventions in various experimental organisms are stresses, whether food stress, heat stress, or cold stress. Even low-dose ionizing radiation has been shown to increase longevity [[48]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28321175); [[49]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28077626)! And of course, the stresses induced by exercise increase muscle strength, cardiorespiratory fitness, and bone strength. 
+ Most of the lifespan-prolonging interventions in various experimental organisms are stresses, whether food stress, heat stress, or cold stress. Even low-dose ionizing radiation has been shown to increase longevity [<a id="a48">[48](#f48)</a>; <a id="a49">[49](#f49)</a>]! And of course, the stresses induced by exercise increase muscle strength, cardiorespiratory fitness, and bone strength. 
 
- So stress is not something to avoid, but rather to welcome. “What doesn’t kill you makes you stronger”. The mechanism may be autophagy (cellular tear-down of worn-out components for recycling) [[50]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28198373). So turn the thermostat down a bit. Do you really need an SPF-80 sunblock? Walk or cycle instead of driving. Are you obsessive about keeping your house clean, or scrubbing your fruits and vegetables? Consider getting up earlier if you have insomnia or depressive symptoms such as fatigue. 
+ So stress is not something to avoid, but rather to welcome. “What doesn’t kill you makes you stronger”. The mechanism may be autophagy (cellular tear-down of worn-out components for recycling) [<a id="a50">[50](#f50)</a>]. So turn the thermostat down a bit. Do you really need an SPF-80 sunblock? Walk or cycle instead of driving. Are you obsessive about keeping your house clean, or scrubbing your fruits and vegetables? Consider getting up earlier if you have insomnia or depressive symptoms such as fatigue. 
 
  ### Medications 
 
  #### Aspirin 
 
- Aspirin extends the healthy lifespan of [C. Elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) worms [[51]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23485446). In humans, it reduces the risk of cardiovascular events by about 25%; daily aspirin use for 5 years or longer reduced cancer mortality by 20% for solid tumours and by 35% for colorectal cancers [[52]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21144578). It’s been known since at least 1876 that aspirin and other salicylates lower blood glucose levels in type 2 diabetics [[53]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20516365); experimental studies suggest that this effect is due to a decrease in glucose absorption by the small intestine [[54]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=856676). 
+ Aspirin extends the healthy lifespan of C. Elegans worms [<a id="a51">[51](#f51)</a>]. In humans, it reduces the risk of cardiovascular events by about 25%; daily aspirin use for 5 years or longer reduced cancer mortality by 20% for solid tumours and by 35% for colorectal cancers [<a id="a52">[52](#f52)</a>]. It’s been known since at least 1876 that aspirin and other salicylates lower blood glucose levels in type 2 diabetics [<a id="a53">[53](#f53)</a>]; experimental studies suggest that this effect is due to a decrease in glucose absorption by the small intestine [<a id="a54">[54](#f54)</a>]. 
 
  #### Metformin 
 
- [Metformin](https://en.wikipedia.org/wiki/Metformin) is the most widely used oral antidiabetic medication. It reduces risk of certain cancers, dementia, cardiovascular disease [[56]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20228137); [[55]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22211893) and increases longevity [[57]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23540700). It is known to reduce insulin levels [[58]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25740979). 
+ Metformin is the most widely used oral antidiabetic medication. It reduces risk of certain cancers, dementia, cardiovascular disease [<a id="a56">[56](#f56)</a>; <a id="a55">[55](#f55)</a>] and increases longevity [<a id="a57">[57](#f57)</a>]. It is known to reduce insulin levels [<a id="a58">[58](#f58)</a>]. 
 
  #### Rapamycin 
 
- [Rapamycin](https://en.wikipedia.org/wiki/Sirolimus), or sirolimus, is a drug used clinically for immunosuppression to prevent graft rejection, and also as cancer treatment. It directly inhibits the protein complex TOR, which regulates cell growth, cell proliferation, cell motility, cell survival, protein synthesis, and transcription [[59]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20848587). 
+ Rapamycin, or sirolimus, is a drug used clinically for immunosuppression to prevent graft rejection, and also as cancer treatment. It directly inhibits the protein complex TOR, which regulates cell growth, cell proliferation, cell motility, cell survival, protein synthesis, and transcription [<a id="a59">[59](#f59)</a>]. 
 
  #### Liraglutide 
 
- Injected once daily, [liraglutide](https://en.wikipedia.org/wiki/Liraglutide) is used to treat both type 2 diabetes and obesity. In mice, it has been shown to reduce dementia [[60]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23973293). Liraglutide lowers fasting insulin levels [[61]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20622169). 
+ Injected once daily, liraglutide is used to treat both type 2 diabetes and obesity. In mice, it has been shown to reduce dementia [<a id="a60">[60](#f60)</a>]. Liraglutide lowers fasting insulin levels [<a id="a61">[61](#f61)</a>]. 
 
  #### Acarbose 
 
- [Acarbose](https://en.wikipedia.org/wiki/Acarbose) is a medication used to treat type 2 diabetes. It acts to decrease absorption of glucose from the gut. Less glucose results in less insulin being secreted [[62]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19689250). 
+ Acarbose is a medication used to treat type 2 diabetes. It acts to decrease absorption of glucose from the gut. Less glucose results in less insulin being secreted [<a id="a62">[62](#f62)</a>]. 
 
  ### Supplements 
 
@@ -140,51 +140,51 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### Melatonin 
 
- [Melatonin](https://en.wikipedia.org/wiki/Melatonin), a hormone secreted by the pituitary gland, regulates sleep and wakefulness. 
+ Melatonin, a hormone secreted by the pituitary gland, regulates sleep and wakefulness. 
 
- Melatonin administration has been shown to inhibit insulin release [[63]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22946959). As melatonin levels decrease with age, it is possible that the resulting higher insulin levels contribute to the conditions of aging. 
+ Melatonin administration has been shown to inhibit insulin release [<a id="a63">[63](#f63)</a>]. As melatonin levels decrease with age, it is possible that the resulting higher insulin levels contribute to the conditions of aging. 
 
  I take 10 mg of double action melatonin every night, just when I get into bed. Double action refers to a portion which is immediate release and a second portion which is timed release. 
 
  #### Vitamin B12 
 
- Only bacterial cells retain the capacity to synthesize B12, but almost all organisms, except plants and fungi, require B12. In humans, the absorption of B12 from food is a highly complicated process, and is frequently compromised with aging, such that about a quarter of community-living elderly are B12-deficient. For nursing home residents, the proportion is 46% [[64]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17961276). 
+ Only bacterial cells retain the capacity to synthesize B12, but almost all organisms, except plants and fungi, require B12. In humans, the absorption of B12 from food is a highly complicated process, and is frequently compromised with aging, such that about a quarter of community-living elderly are B12-deficient. For nursing home residents, the proportion is 46% [<a id="a64">[64](#f64)</a>]. 
 
- In the wild, the consequences of B12 deficiency, which include anemia, lower extremity weakness, loss of postural balance, and dementia [[65]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24225845), would quickly result in death. This suggests that the high likelihood for B12 deficiency in elderly has been “built in” by evolution as another mechanism to kill off the eldest generation. 
+ In the wild, the consequences of B12 deficiency, which include anemia, lower extremity weakness, loss of postural balance, and dementia [<a id="a65">[65](#f65)</a>], would quickly result in death. This suggests that the high likelihood for B12 deficiency in elderly has been “built in” by evolution as another mechanism to kill off the eldest generation. 
 
  As animal-based foods are the only sources of food B12, a vegan or quasi-vegan diet such as the methionine and protein restricted diets suggested above is already likely to result in B12 deficiency, unless supplements are taken. 
 
- Since no bad effects of excessive B12 supplementation have so far been identified [[66]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709891), I often recommend to my older patients to take 1000 mcg daily [[67]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709879). Unfortunately, in individuals who have [pernicious anemia](https://en.wikipedia.org/wiki/Vitamin_B12_deficiency_anemia), even this large dose may be insufficient. In these situations, weekly injections of 1000 mcg B12 may be necessary. A nonprescription alternative may be intranasal hydroxocobalamin spray [[68 (available online [here](www.detoxpeople.eu/index.php?l=product_list&m=76) or [here](www.detoxpeople.eu/index.php?l=product_detail&p=3584)). 
+ Since no bad effects of excessive B12 supplementation have so far been identified [<a id="a66">[66](#f66)</a>], I often recommend to my older patients to take 1000 mcg daily [<a id="a67">[67](#f67)</a>]. Unfortunately, in individuals who have pernicious anemia, even this large dose may be insufficient. In these situations, weekly injections of 1000 mcg B12 may be necessary. A nonprescription alternative may be intranasal hydroxocobalamin spray [<a id="a68">[68](#f68)</a>] (available online here or here). 
 
  #### Omega-3 fatty acids 
 
- Although the research evidence is mixed on whether fish-derived [omega-3 fatty acid](https://nccih.nih.gov/health/omega3/introduction.htm) supplements are beneficial for a variety of conditions, omega-3’s are believed by many scientists to be important for brain, psychiatric, and cardiovascular health, and regular consumption of fatty fish is associated with decreased mortality [[69]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446499). 
+ Although the research evidence is mixed on whether fish-derived omega-3 fatty acid supplements are beneficial for a variety of conditions, omega-3’s are believed by many scientists to be important for brain, psychiatric, and cardiovascular health, and regular consumption of fatty fish is associated with decreased mortality [<a id="a69">[69](#f69)</a>]. 
 
  Given that methionine restriction and protein restriction will both severely limit fish intake, I take an omega-3 supplement. 
 
  #### Choline 
 
- Humans eating diets low in [choline](https://en.wikipedia.org/wiki/Choline) develop fatty liver and liver damage [[70]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23493015). Adequate dietary intakes for adults are considered to be 550 mg per day [[71]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23193625), but this is based on very little evidence. Since good dietary sources of choline, such as eggs or liver, are not part of a methionine restricted diet, I take a capsule of triple lecithin containing 420 mg of choline, every other day. 
+ Humans eating diets low in choline develop fatty liver and liver damage [<a id="a70">[70](#f70)</a>]. Adequate dietary intakes for adults are considered to be 550 mg per day [<a id="a71">[71](#f71)</a>], but this is based on very little evidence. Since good dietary sources of choline, such as eggs or liver, are not part of a methionine restricted diet, I take a capsule of triple lecithin containing 420 mg of choline, every other day. 
 
  #### Vitamin D 
 
- Vitamin D consists of a number of compounds; in humans, the most important are vitamin D3 ([cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)) and D2 ([ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)). As only a few foods contain vitamin D, the most important source is synthesis of D3 in the skin through the action of ultraviolet light. Given the concern about skin cancer, this has become an unreliable source for many people who either avoid sun exposure or use sunblocking agents. A Cochrane review in 2014 suggests that Vitamin D3 decreases mortality in elderly people [[72]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24414552). 
+ Vitamin D consists of a number of compounds; in humans, the most important are vitamin D3 (cholecalciferol) and D2 (ergocalciferol). As only a few foods contain vitamin D, the most important source is synthesis of D3 in the skin through the action of ultraviolet light. Given the concern about skin cancer, this has become an unreliable source for many people who either avoid sun exposure or use sunblocking agents. A Cochrane review in 2014 suggests that Vitamin D3 decreases mortality in elderly people [<a id="a72">[72](#f72)</a>]. 
 
  #### Magnesium 
 
- Low [magnesium](https://en.wikipedia.org/wiki/Magnesium_in_biology) intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated C-reactive protein, hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [[73]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22364157). The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount  . The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [[75]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24402002). As the healthy kidney is very effective at excreting magnesium, hypermagnesaemia is uncommon. 
+ Low magnesium intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated C-reactive protein, hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [<a id="a73">[73](#f73)</a>]. The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount [ ]. The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [<a id="a75">[75](#f75)</a>]. As the healthy kidney is very effective at excreting magnesium, hypermagnesaemia is uncommon. 
 
- Supplemental magnesium for 12 weeks has been shown to improve physical performance in healthy elderly women [[76]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25008857). 
+ Supplemental magnesium for 12 weeks has been shown to improve physical performance in healthy elderly women [<a id="a76">[76](#f76)</a>]. 
 
  Because the low methionine, low protein diet excludes a number of rich dietary sources of magnesium, I take a supplement of magnesium citrate 150 mg every other day. 
 
  #### Boron 
 
- [Boron](https://en.wikipedia.org/wiki/Boron#Biological_role) affects bone growth, alleviates arthritic symptoms, and is associated with reduced risk for some cancer types [[77]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25063690). Other beneficial effects have been recently reviewed [[78]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26770156). Although boron is found in fruits and vegetables, especially nuts and pulses, [soil depletion of boron](https://en.wikipedia.org/wiki/Boron_deficiency_(plant_disorder)) is the most widespread micronutrient deficiency around the world and affects availability of dietary boron.<span class="Apple-converted-space"> </span> 
+ Boron affects bone growth, alleviates arthritic symptoms, and is associated with reduced risk for some cancer types [<a id="a77">[77](#f77)</a>]. Other beneficial effects have been recently reviewed [<a id="a78">[78](#f78)</a>]. Although boron is found in fruits and vegetables, especially nuts and pulses, soil depletion of boron is the most widespread micronutrient deficiency around the world and affects availability of dietary boron.<span class="Apple-converted-space"> </span> 
 
- Dietary boron reduces insulin levels in chicks and rats [[79]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14608076). 
+ Dietary boron reduces insulin levels in chicks and rats [<a id="a79">[79](#f79)</a>]. 
 
- It is believed that boron intake needs to be 3 mg/day or higher  . The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults ([U.S. National Library of Medicine](https://medlineplus.gov/druginfo/natural/894.html)). I take a supplement of 3 mg every other day. 
+ It is believed that boron intake needs to be 3 mg/day or higher [ ]. The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults (U.S. National Library of Medicine). I take a supplement of 3 mg every other day. 
 
   ## Things to avoid 
 
@@ -196,11 +196,11 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### Sugars and starches 
 
- These foods typically have a high [glycemic index](https://en.wikipedia.org/wiki/Glycemic_index), [glycemic load](https://en.wikipedia.org/wiki/Glycemic_load), or [insulin index](https://en.wikipedia.org/wiki/Insulin_index) (see below). 
+ These foods typically have a high glycemic index, glycemic load, or insulin index (see below). 
 
  #### Artificial sweeteners 
 
- Even artificial sweeteners stimulate insulin secretion [[81]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2887500) and contribute to obesity [[82]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18535548). 
+ Even artificial sweeteners stimulate insulin secretion [<a id="a81">[81](#f81)</a>] and contribute to obesity [<a id="a82">[82](#f82)</a>]. 
 
  #### High glycemic index foods 
 
@@ -208,37 +208,37 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  ### Supplements 
 
- In general, and with the exceptions listed above, I believe that taking supplements, even those that are found naturally in foods, may not be such a good idea when we’re older. This is not to say that the particular molecule is bad for you, just that when a molecule is obtained as a component of the foods we’re eating, it may work differently than when taken in concentrated form as a supplement. Additionally, high-potency supplements have a higher risk of interacting with medications [[83]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25980574). 
+ In general, and with the exceptions listed above, I believe that taking supplements, even those that are found naturally in foods, may not be such a good idea when we’re older. This is not to say that the particular molecule is bad for you, just that when a molecule is obtained as a component of the foods we’re eating, it may work differently than when taken in concentrated form as a supplement. Additionally, high-potency supplements have a higher risk of interacting with medications [<a id="a83">[83](#f83)</a>]. 
 
- In the case of anti-oxidant supplements, there is some evidence that these can be bad for our health when we’re older. For example, folic acid supplements were found to increase the risk of prostate cancer by 2.63 times compared to placebo, whereas folic acid obtained from foods decreased cancer risk [[84]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19276452). A review of vitamin and mineral supplementation [[85]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20697066) suggests that higher than standard doses of some vitamins or minerals could enhance carcinogenesis or worsen survival in patients with cancer. 
+ In the case of anti-oxidant supplements, there is some evidence that these can be bad for our health when we’re older. For example, folic acid supplements were found to increase the risk of prostate cancer by 2.63 times compared to placebo, whereas folic acid obtained from foods decreased cancer risk [<a id="a84">[84](#f84)</a>]. A review of vitamin and mineral supplementation [<a id="a85">[85](#f85)</a>] suggests that higher than standard doses of some vitamins or minerals could enhance carcinogenesis or worsen survival in patients with cancer. 
 
- Again for folic acid, supplements were found to be associated with increased mortality in a study of 55,000 middle-aged Danes [[86]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22489215).  
+ Again for folic acid, supplements were found to be associated with increased mortality in a study of 55,000 middle-aged Danes [<a id="a86">[86](#f86)</a>].  
 
- Taking vitamin E (alpha-tocopherol) supplements also resulted in higher prostate cancer incidence [[87]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22490437). 
+ Taking vitamin E (alpha-tocopherol) supplements also resulted in higher prostate cancer incidence [<a id="a87">[87](#f87)</a>]. 
 
- A meta-analysis showed that vitamin A supplementation increased cancer risk [[88]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28096125). 
+ A meta-analysis showed that vitamin A supplementation increased cancer risk [<a id="a88">[88](#f88)</a>]. 
 
- Calcium supplementation exceeding 1500 mg per day was associated with a higher risk of advanced and fatal prostate cancer [[89]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16492906). 
+ Calcium supplementation exceeding 1500 mg per day was associated with a higher risk of advanced and fatal prostate cancer [<a id="a89">[89](#f89)</a>]. 
 
- Another review asserts “Numerous studies published over more than a decade have linked some supplements (including vitamins E, C, D, A, and B, as well as selenium) to no health benefits or even to adverse health effects” [[90]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20861067). 
+ Another review asserts “Numerous studies published over more than a decade have linked some supplements (including vitamins E, C, D, A, and B, as well as selenium) to no health benefits or even to adverse health effects” [<a id="a90">[90](#f90)</a>]. 
 
- Beta-carotene in food may reduce lung cancer risk, but “A number of intervention studies in smokers have unexpectedly reported increased lung tumor rates after high, long-term, beta-carotene supplementation” [[91]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20155614). 
+ Beta-carotene in food may reduce lung cancer risk, but “A number of intervention studies in smokers have unexpectedly reported increased lung tumor rates after high, long-term, beta-carotene supplementation” [<a id="a91">[91](#f91)</a>]. 
 
- A large intervention trial of vitamin and mineral supplements involving almost 30,000 adults in China found that a combination of selenium, vitamin E, and beta-carotene decreased esophageal cancer deaths by 17% for participants younger than 55 years of age, but increased deaths by 14% for those older than 55 [[92]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19318634). The same study showed that vitamin A and zinc supplementation was associated with increased total and stroke mortality. 
+ A large intervention trial of vitamin and mineral supplements involving almost 30,000 adults in China found that a combination of selenium, vitamin E, and beta-carotene decreased esophageal cancer deaths by 17% for participants younger than 55 years of age, but increased deaths by 14% for those older than 55 [<a id="a92">[92](#f92)</a>]. The same study showed that vitamin A and zinc supplementation was associated with increased total and stroke mortality. 
 
- Finally, a review of the literature on vitamin C supplementation and lifespan in a variety of model organisms found that some studies suggest an increase in lifespan and other a decrease [[93]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23643700). 
+ Finally, a review of the literature on vitamin C supplementation and lifespan in a variety of model organisms found that some studies suggest an increase in lifespan and other a decrease [<a id="a93">[93](#f93)</a>]. 
 
  ### Other 
 
  #### Bisphenol A in the environment 
 
- [Bisphenol A](https://en.wikipedia.org/wiki/Bisphenol_A) (BPA) may no longer be used in Canada for the manufacture of baby bottles, because it is known to disrupt hormones, especially estrogen. Perhaps less well known is that BPA stimulates insulin secretion [[94]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22347437). BPA is ubiquitous in our environment, as an important use is in the coating on paper used for receipts produced by thermal printers [[95]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28528315), whether at the grocery store, the gas pump, or anywhere one uses a credit card. Other thermally printed items include bus and train tickets, parking tickets, boarding passes, lottery slips and vegetable weight stickers. BPA has also been detected in paper products other than thermal paper including currency bills, food contact papers, food cartons, napkins, paper towels, and toilet paper. These products are typically made from recycled paper which includes thermal printer paper. 
+ Bisphenol A (BPA) may no longer be used in Canada for the manufacture of baby bottles, because it is known to disrupt hormones, especially estrogen. Perhaps less well known is that BPA stimulates insulin secretion [<a id="a94">[94](#f94)</a>]. BPA is ubiquitous in our environment, as an important use is in the coating on paper used for receipts produced by thermal printers [<a id="a95">[95](#f95)</a>], whether at the grocery store, the gas pump, or anywhere one uses a credit card. Other thermally printed items include bus and train tickets, parking tickets, boarding passes, lottery slips and vegetable weight stickers. BPA has also been detected in paper products other than thermal paper including currency bills, food contact papers, food cartons, napkins, paper towels, and toilet paper. These products are typically made from recycled paper which includes thermal printer paper. 
 
  Handling any of these paper products can cause BPA to be absorbed through the skin. Greasy skin, including use of hand lotions, increases skin absorption. The alcohol found in many hand sanitizer products also increases absorption. Hand washing only removes some of the BPA from the skin. Both epidemiologic studies as well as laboratory studies with animals suggest that current environmental exposures to BPA may be contributing to the current worldwide epidemic of obesity and type 2 diabetes. 
 
  #### Blue light at night 
 
- Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes [[96]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594). The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion [[97]](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23535335), exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
+ Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes [<a id="a96">[96](#f96)</a>]. The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion [<a id="a97">[97](#f97)</a>], exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
  [Touitou et al, 2017](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594)
  #### Short sleep or shift work 
 
@@ -247,96 +247,188 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  ## References 
 
-1.	Speakman JR, Mitchell SE, Mazidi M. Calories or protein? The effect of dietary restriction on lifespan in rodents is explained by calories alone. Exp Gerontol. 2016;86:28-38.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27006163)
-2.	Fontana L, Meyer TE, Klein S, Holloszy JO. Long-term calorie restriction is highly effective in reducing the risk for atherosclerosis in humans. Proc Natl Acad Sci U S A. 2004;101:6659-6663.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15096581)
-3.	Orentreich N, Matias JR, DeFelice A, Zimmerman JA. Low methionine ingestion by rats extends life span. J Nutr. 1993;123:269-274.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8429371)
-4.	Plaisance EP, Greenway FL, Boudreau A et al. Dietary methionine restriction increases fat oxidation in obese adults with metabolic syndrome. J Clin Endocrinol Metab. 2011;96:E836-40.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21346062)
-5.	McCarty MF, Barroso-Aranda J, Contreras F. The low-methionine content of vegan diets may make methionine restriction feasible as a life extension strategy. Med Hypotheses. 2009;72:125-128.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18789600)
-6.	Narita K, Nagao K, Bannai M et al. Dietary deficiency of essential amino acids rapidly induces cessation of the rat estrous cycle. PLoS One. 2011;6:e28136.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22132231)
-7.	Grandison RC, Piper MD, Partridge L. Amino-acid imbalance explains extension of lifespan by dietary restriction in Drosophila. Nature. 2009;462:1061-1064.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19956092)
-8.	Spindler SR. Caloric restriction: from soup to nuts. Ageing Res Rev. 2010;9:324-353.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19853062)
-9.	Perrone CE, Malloy VL, Orentreich DS, Orentreich N. Metabolic adaptations to methionine restriction that benefit health and lifespan in rodents. Exp Gerontol. 2013;48:654-660.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22819757)
-10.	Forney LA, Wanders D, Stone KP, Pierse A, Gettys TW. Concentration-dependent linkage of dietary methionine restriction to the components of its metabolic phenotype. Obesity (Silver Spring). 2017;25:730-738.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28261952)
-11.	Simpson SJ, Le Couteur DG, Raubenheimer D et al. Dietary protein, aging and nutritional geometry. Ageing Res Rev. 2017;39:78-86.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28274839)
-12.	Levine ME, Suarez JA, Brandhorst S et al. Low protein intake is associated with a major reduction in IGF-1, cancer, and overall mortality in the 65 and younger but not older population. Cell Metab. 2014;19:407-417.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24606898)
-13.	Hügel HM. Brain Food for Alzheimer-Free Ageing: Focus on Herbal Medicines. Adv Exp Med Biol. 2015;863:95-116.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26092628)
-14.	Liao VH, Yu CW, Chu YJ, Li WH, Hsieh YC, Wang TT. Curcumin-mediated lifespan extension in Caenorhabditis elegans. Mech Ageing Dev. 2011;132:480-487.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21855561)
-15.	Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisalaphong C, Jirawatnotai S. Curcumin extract for prevention of type 2 diabetes. Diabetes Care. 2012;35:2121-2127.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22773702)
-16.	Aggarwal BB. Targeting inflammation-induced obesity and metabolic diseases by curcumin and other nutraceuticals. Annu Rev Nutr. 2010;30:173-199.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20420526)
-17.	Kang JH, Goto T, Han IS, Kawada T, Kim YM, Yu R. Dietary capsaicin reduces obesity-induced insulin resistance and hepatic steatosis in obese mice fed a high-fat diet. Obesity (Silver Spring). 2010;18:780-787.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19798065)
-18.	Chrysohoou C, Stefanadis C. Longevity and diet. Myth or pragmatism. Maturitas. 2013;76:303-307.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24210636)
-19.	Marsh CE, Green DJ, Naylor LH, Guelfi KJ. Consumption of dark chocolate attenuates subsequent food intake compared with milk and white chocolate in postmenopausal women. Appetite. 2017;116:544-551.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28572069)
-20.	Lightowler H, Thondre S, Holz A, Theis S. Replacement of glycaemic carbohydrates by inulin-type fructans from chicory (oligofructose, inulin) reduces the postprandial blood glucose and insulin response to foods: report of two double-blind, randomized, controlled trials. Eur J Nutr. 2017.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28255654)
-21.	Keithley J, Swanson B. Glucomannan and obesity: a critical review. Altern Ther Health Med. 2005;11:30-34.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16320857)
-22.	Boets E, Deroover L, Houben E et al. Quantification of in Vivo Colonic Short Chain Fatty Acid Production from Inulin. Nutrients. 2015;7:8916-8929.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26516911)
-23.	Rivière A, Selak M, Lantin D, Leroy F, De Vuyst L. Bifidobacteria and Butyrate-Producing Colon Bacteria: Importance and Strategies for Their Stimulation in the Human Gut. Front Microbiol. 2016;7:979.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27446020)
-24.	Tsai CH, Chen EC, Tsay HS, Huang CJ. Wild bitter gourd improves metabolic syndrome: a preliminary dietary supplementation trial. Nutr J. 2012;11:4.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22243626)
-25.	Raina K, Kumar D, Agarwal R. Promise of bitter melon (Momordica charantia) bioactives in cancer prevention and therapy. Semin Cancer Biol. 2016;40-41:116-129.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27452666)
-26.	Zhang WW, Feng Z, Narod SA. Multiple therapeutic and preventive effects of 3,3’-diindolylmethane on cancers including prostate cancer and high grade prostatic intraepithelial neoplasia. J Biomed Res. 2014;28:339-348.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25332705)
-27.	Maruthanila VL, Poornima J, Mirunalini S. Attenuation of Carcinogenesis and the Mechanism Underlying by the Influence of Indole-3-carbinol and Its Metabolite 3,3’-Diindolylmethane: A Therapeutic Marvel. Adv Pharmacol Sci. 2014;2014:832161.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24982671)
-28.	Salazar-Martinez E, Willett WC, Ascherio A et al. Coffee consumption and risk for type 2 diabetes mellitus. Ann Intern Med. 2004;140:1-8.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14706966)
-29.	Freedman ND, Park Y, Abnet CC, Hollenbeck AR, Sinha R. Association of coffee drinking with total and cause-specific mortality. N Engl J Med. 2012;366:1891-1904.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22591295)
-30.	Johnston KL, Clifford MN, Morgan LM. Coffee acutely modifies gastrointestinal hormone secretion and glucose tolerance in humans: glycemic effects of chlorogenic acid and caffeine. Am J Clin Nutr. 2003;78:728-733.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14522730)
-31.	Bhatti SK, O’Keefe JH, Lavie CJ. Coffee and tea: perks for health and longevity? Curr Opin Clin Nutr Metab Care. 2013;16:688-697.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24071782)
-32.	Mineharu Y, Koizumi A, Wada Y et al. Coffee, green tea, black tea and oolong tea consumption and risk of mortality from cardiovascular disease in Japanese men and women. J Epidemiol Community Health. 2011;65:230-240.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19996359)
-33.	Gambero A, Ribeiro ML. The positive effects of yerba maté (Ilex paraguariensis) in obesity. Nutrients. 2015;7:730-750.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25621503)
-34.	Arçari DP, Bartchewsky W, dos Santos TW et al. Anti-inflammatory effects of yerba maté extract (Ilex paraguariensis) ameliorate insulin resistance in mice with high fat diet-induced obesity. Mol Cell Endocrinol. 2011;335:110-115.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21238540)
-35.	Gruber J, Tang SY, Halliwell B. Evidence for a trade-off between survival and fitness caused by resveratrol treatment of Caenorhabditis elegans. Ann N Y Acad Sci. 2007;1100:530-542.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17460219)
-36.	Wang C, Wheeler CT, Alberico T et al. The effect of resveratrol on lifespan depends on both gender and dietary nutrient composition in Drosophila melanogaster. Age (Dordr). 2013;35:69-81.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22083438)
-37.	Embaby H, Elsayed E, Fawzy M. Insulin Sensitivity and Plasma Glucose Response to Aerobic Exercise in Pregnant Women at Risk for Gestational Diabetes Mellitus. Ethiop J Health Sci. 2016;26:409-414.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446846)
-38.	Buresh R, Berg K. Exercise for the management of Type 2 Diabetes Mellitus. Factors to consider with current guidelines. J Sports Med Phys Fitness. 2017.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28462566)
-39.	Sonia S, Witjaksono F, Ridwan R. Effect of cooling of cooked white rice on resistant starch content and glycemic response. Asia Pac J Clin Nutr. 2015;24:620-625.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26693746)
-40.	Akilen R, Deljoomanesh N, Hunschede S et al. The effects of potatoes and other carbohydrate side dishes consumed with meat on food intake, glycemia and satiety response in children. Nutr Diabetes. 2016;6:e195.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26878318)
-41.	Sidney S. Marijuana Use and Type 2 Diabetes Mellitus: a Review. Curr Diab Rep. 2016;16:117.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27747490)
-42.	Velasco G, Sánchez C, Guzmán M. Anticancer mechanisms of cannabinoids. Curr Oncol. 2016;23:S23-32.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27022311)
-43.	Davis MP. Cannabinoids for Symptom Management and Cancer Therapy: The Evidence. J Natl Compr Canc Netw. 2016;14:915-922.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27407130)
-44.	Farnetti S, Malandrino N, Luciani D, Gasbarrini G, Capristo E. Food fried in extra-virgin olive oil improves postprandial insulin response in obese, insulin-resistant women. J Med Food. 2011;14:316-321.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21142948)
-45.	Cuttler JM, Feinendegen LE, Socol Y. Evidence That Lifelong Low Dose Rates of Ionizing Radiation Increase Lifespan in Long- and Short-Lived Dogs. Dose Response. 2017;15:1559325817692903.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28321175)
-46.	Tang FR, Loke WK, Khoo BC. Low-dose or low-dose-rate ionizing radiation-induced bioeffects in animal models. J Radiat Res. 2017;58:165-182.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28077626)
-47.	Kumsta C, Chang JT, Schmalz J, Hansen M. Hormetic heat stress and HSF-1 induce autophagy to improve survival and proteostasis in C. elegans. Nat Commun. 2017;8:14337.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28198373)
-48.	Wan QL, Zheng SQ, Wu GS, Luo HR. Aspirin extends the lifespan of Caenorhabditis elegans via AMPK and DAF-16/FOXO in dietary restriction pathway. Exp Gerontol. 2013;48:499-506.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23485446)
-49.	Rothwell PM, Fowkes FG, Belch JF, Ogawa H, Warlow CP, Meade TW. Effect of daily aspirin on long-term risk of death due to cancer: analysis of individual patient data from randomised trials. Lancet. 2011;377:31-41.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21144578)
-50.	Rumore MM, Kim KS. Potential role of salicylates in type 2 diabetes. Ann Pharmacother. 2010;44:1207-1221.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20516365)
-51.	Arvanitakis C, Chen GH, Folscroft J, Greenberger NJ. Effect of aspirin on intestinal absorption of glucose, sodium, and water in man. Gut. 1977;18:187-190.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=856676)
-52.	Gallagher EJ, Leroith D. Diabetes, cancer, and metformin: connections of metabolism and cell proliferation. Ann N Y Acad Sci. 2011;1243:54-68.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22211893)
-53.	Algire C, Amrein L, Zakikhani M, Panasci L, Pollak M. Metformin blocks the stimulative effect of a high-energy diet on colon carcinoma growth in vivo and is associated with reduced expression of fatty acid synthase. Endocr Relat Cancer. 2010;17:351-360.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20228137)
-54.	Cabreiro F, Au C, Leung KY et al. Metformin retards aging in C. elegans by altering microbial folate and methionine metabolism. Cell. 2013;153:228-239.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23540700)
-55.	Goodwin PJ, Parulekar WR, Gelmon KA et al. Effect of metformin vs placebo on and metabolic factors in NCIC CTG MA.32. J Natl Cancer Inst. 2015;107.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25740979)
-56.	Mouchiroud L, Molin L, Dalliere N, Solari F. Life span extension by resveratrol, rapamycin, and metformin: The promise of dietary restriction mimetics for an healthy aging. Biofactors. 2010;36:377-382.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20848587)
-57.	McClean PL, Hölscher C. Liraglutide can reverse memory impairment, synaptic loss and reduce plaque load in aged APP/PS1 mice, a model of Alzheimer’s disease. Neuropharmacology. 2014;76 Pt A:57-67.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23973293)
-58.	Cummings BP, Stanhope KL, Graham JL et al. Chronic administration of the glucagon-like peptide-1 analog, liraglutide, delays the onset of diabetes and lowers triglycerides in UCD-T2DM rats. Diabetes. 2010;59:2653-2661.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20622169)
-59.	Rosak C, Mertes G. Effects of acarbose on proinsulin and insulin secretion and their potential significance for the intermediary metabolism and cardiovascular system. Curr Diabetes Rev. 2009;5:157-164.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19689250)
-60.	Srinivasan V, Ohta Y, Espino J et al. Metabolic Syndrome, Its Pathophysiology and the Role of Melatonin. Recent Pat Endocr Metab Immune Drug Discov. 2013;7:11-25.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22946959)
-61.	Cuskelly GJ, Mooney KM, Young IS. Folate and vitamin B12: friendly or enemy nutrients for the elderly. Proc Nutr Soc. 2007;66:548-558.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17961276)
-62.	Oberlin BS, Tangney CC, Gustashaw KA, Rasmussen HE. Vitamin B12 deficiency in relation to functional disabilities. Nutrients. 2013;5:4462-4475.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24225845)
-63.	Carmel R. Efficacy and safety of fortification and supplementation with vitamin B12: biochemical and physiological effects. Food Nutr Bull. 2008;29:S177-87.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709891)
-64.	Allen LH. Causes of vitamin B12 and folate deficiency. Food Nutr Bull. 2008;29:S20-34; discussion S35.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709879)
-65.	Van der Kuy PHM, Merkus FWHM, Russel FGM, Lohman JJHM, Hooymans PM. Pharmacokinetics of intranasal and oral hydroxocobalamin in healthy subjects. Brit J Clin Pharmacol. 2001;51:505P
-66.	Schwingshackl L, Schwedhelm C, Hoffmann G et al. Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. Am J Clin Nutr. 2017;105:1462-1473.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446499)
-67.	Mehedint MG, Zeisel SH. Choline’s role in maintaining liver function: new evidence for epigenetic mechanisms. Curr Opin Clin Nutr Metab Care. 2013;16:339-345.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23493015)
-68.	Institute of Medicine (US) Standing Committee on the Scientific Evaluation of Dietary Reference Intakes and its Panel on Folate OBV, and Choline. Dietary Reference Intakes for Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline. 1998.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23193625)
-69.	Bjelakovic G, Gluud LL, Nikolova D et al. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev. 2014CD007470.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24414552)
-70.	Rosanoff A, Weaver CM, Rude RK. Suboptimal magnesium status in the United States: are the health consequences underestimated. Nutr Rev. 2012;70:153-164.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22364157)
-71.	Ayuk J, Gittoes NJ. Contemporary view of the clinical relevance of magnesium homeostasis. Ann Clin Biochem. 2014;51:179-188.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24402002)
-72.	Veronese N, Berton L, Carraro S et al. Effect of oral magnesium supplementation on physical performance in healthy elderly women involved in a weekly exercise program: a randomized controlled trial. Am J Clin Nutr. 2014;100:974-981.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25008857)
-73.	Nielsen FH. Update on human health effects of boron. J Trace Elem Med Biol. 2014;28:383-387.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25063690)
-74.	Bakken NA, Hunt CD. Dietary boron decreases peak pancreatic in situ insulin release in chicks and plasma insulin concentrations in rats regardless of vitamin D or magnesium status. J Nutr. 2003;133:3577-3583.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14608076)
-75.	Pizzorno L. Nothing Boring About Boron. Integr Med (Encinitas). 2015;14:35-48.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26770156)
-76.	Liang Y, Steinbach G, Maier V, Pfeiffer EF. The effect of artificial sweetener on insulin secretion. 1. The effect of acesulfame K on insulin secretion in the rat (studies in vivo). Horm Metab Res. 1987;19:233-238.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2887500)
-77.	Fowler SP, Williams K, Resendez RG, Hunt KJ, Hazuda HP, Stern MP. Fueling the obesity epidemic? Artificially sweetened beverage use and long-term weight gain. Obesity (Silver Spring). 2008;16:1894-1900.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18535548)
-78.	Margină D, Ilie M, Grădinaru D, Androutsopoulos VP, Kouretas D, Tsatsakis AM. Natural products-friends or foes. Toxicol Lett. 2015;236:154-167.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25980574)
-79.	Figueiredo JC, Grau MV, Haile RW et al. Folic acid and risk of prostate cancer: results from a randomized clinical trial. J Natl Cancer Inst. 2009;101:432-435.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19276452)
-80.	Giovannucci E, Chan AT. Role of vitamin and mineral supplementation and aspirin use in cancer survivors. J Clin Oncol. 2010;28:4081-4085.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20697066)
-81.	Roswall N, Olsen A, Christensen J et al. Micronutrient intake in relation to all-cause mortality in a prospective Danish cohort. Food Nutr Res. 2012;56.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22489215)
-82.	Yang CS, Suh N, Kong AN. Does Vitamin E Prevent or Promote Cancer? Cancer Prev Res (Phila). 2012;5:701-705.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22490437)
-83.	Schwingshackl L, Boeing H, Stelmach-Mardas M et al. Dietary Supplements and Risk of Cause-Specific Death, Cardiovascular Disease, and Cancer: A Systematic Review and Meta-Analysis of Primary Prevention Trials. Adv Nutr. 2017;8:27-39.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28096125)
-84.	Giovannucci E, Liu Y, Stampfer MJ, Willett WC. A prospective study of calcium intake and incident and fatal prostate cancer. Cancer Epidemiol Biomarkers Prev. 2006;15:203-210.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16492906)
-85.	Soni MG, Thurmond TS, Miller ER, Spriggs T, Bendich A, Omaye ST. Safety of vitamins and minerals: controversies and perspective. Toxicol Sci. 2010;118:348-355.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20861067)
-86.	Goralczyk R. Beta-carotene and lung cancer in smokers: review of hypotheses and status of research. Nutr Cancer. 2009;61:767-774.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20155614)
-87.	Qiao YL, Dawsey SM, Kamangar F et al. Total and cancer mortality after supplementation with vitamins and minerals: follow-up of the Linxian General Population Nutrition Intervention Trial. J Natl Cancer Inst. 2009;101:507-518.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19318634)
-88.	Pallauf K, Bendall JK, Scheiermann C et al. Vitamin C and lifespan in model organisms. Food Chem Toxicol. 2013;58:255-263.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23643700)
-89.	Soriano S, Alonso-Magdalena P, Garcia-Arevalo M et al. Rapid insulinotropic action of low doses of bisphenol-A on mouse and human islets of Langerhans: role of estrogen receptor beta. PLoS One. 2012;7:e31109.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22347437)
-90.	Björnsdotter MK, de Boer J, Ballesteros-Gómez A. Bisphenol A and replacements in thermal paper: A review. Chemosphere. 2017;182:691-706.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28528315)
-91.	Touitou Y, Reinberg A, Touitou D. Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption. Life Sci. 2017;173:94-106.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594)
-92.	Peschke E, Bahr I, Muhlbauer E. Melatonin and Pancreatic Islets: Interrelationships between Melatonin, Insulin and Glucagon. Int J Mol Sci. 2013;14:6981-7015.[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23535335)
+ <b id="f1">1</b> Speakman JR, Mitchell SE, Mazidi M. Calories or protein? The effect of dietary restriction on lifespan in rodents is explained by calories alone. Exp Gerontol. 2016;86:28-38.[↩](#a1) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27006163)
+
+ <b id="f2">2</b> Fontana L, Meyer TE, Klein S, Holloszy JO. Long-term calorie restriction is highly effective in reducing the risk for atherosclerosis in humans. Proc Natl Acad Sci U S A. 2004;101:6659-6663.[↩](#a2) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=15096581)
+
+ <b id="f3">3</b> Orentreich N, Matias JR, DeFelice A, Zimmerman JA. Low methionine ingestion by rats extends life span. J Nutr. 1993;123:269-274.[↩](#a3) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=8429371)
+
+ <b id="f4">4</b> Plaisance EP, Greenway FL, Boudreau A et al. Dietary methionine restriction increases fat oxidation in obese adults with metabolic syndrome. J Clin Endocrinol Metab. 2011;96:E836-40.[↩](#a4) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21346062)
+
+ <b id="f5">5</b> McCarty MF, Barroso-Aranda J, Contreras F. The low-methionine content of vegan diets may make methionine restriction feasible as a life extension strategy. Med Hypotheses. 2009;72:125-128.[↩](#a5) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18789600)
+
+ <b id="f6">6</b> Narita K, Nagao K, Bannai M et al. Dietary deficiency of essential amino acids rapidly induces cessation of the rat estrous cycle. PLoS One. 2011;6:e28136.[↩](#a6) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22132231)
+
+ <b id="f7">7</b> Grandison RC, Piper MD, Partridge L. Amino-acid imbalance explains extension of lifespan by dietary restriction in Drosophila. Nature. 2009;462:1061-1064.[↩](#a7) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19956092)
+
+ <b id="f8">8</b> Spindler SR. Caloric restriction: from soup to nuts. Ageing Res Rev. 2010;9:324-353.[↩](#a8) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19853062)
+
+ <b id="f9">9</b> Perrone CE, Malloy VL, Orentreich DS, Orentreich N. Metabolic adaptations to methionine restriction that benefit health and lifespan in rodents. Exp Gerontol. 2013;48:654-660.[↩](#a9) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22819757)
+
+ <b id="f10">10</b> Forney LA, Wanders D, Stone KP, Pierse A, Gettys TW. Concentration-dependent linkage of dietary methionine restriction to the components of its metabolic phenotype. Obesity (Silver Spring). 2017;25:730-738.[↩](#a10) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28261952)
+
+ <b id="f11">11</b> Simpson SJ, Le Couteur DG, Raubenheimer D et al. Dietary protein, aging and nutritional geometry. Ageing Res Rev. 2017;39:78-86.[↩](#a11) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28274839)
+
+ <b id="f12">12</b> Levine ME, Suarez JA, Brandhorst S et al. Low protein intake is associated with a major reduction in IGF-1, cancer, and overall mortality in the 65 and younger but not older population. Cell Metab. 2014;19:407-417.[↩](#a12) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24606898)
+
+ <b id="f13">13</b> Hügel HM. Brain Food for Alzheimer-Free Ageing: Focus on Herbal Medicines. Adv Exp Med Biol. 2015;863:95-116.[↩](#a13) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26092628)
+
+ <b id="f14">14</b> Liao VH, Yu CW, Chu YJ, Li WH, Hsieh YC, Wang TT. Curcumin-mediated lifespan extension in Caenorhabditis elegans. Mech Ageing Dev. 2011;132:480-487.[↩](#a14) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21855561)
+
+ <b id="f15">15</b> Chuengsamarn S, Rattanamongkolgul S, Luechapudiporn R, Phisalaphong C, Jirawatnotai S. Curcumin extract for prevention of type 2 diabetes. Diabetes Care. 2012;35:2121-2127.[↩](#a15) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22773702)
+
+ <b id="f16">16</b> Aggarwal BB. Targeting inflammation-induced obesity and metabolic diseases by curcumin and other nutraceuticals. Annu Rev Nutr. 2010;30:173-199.[↩](#a16) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20420526)
+
+ <b id="f17">17</b> Kang JH, Goto T, Han IS, Kawada T, Kim YM, Yu R. Dietary capsaicin reduces obesity-induced insulin resistance and hepatic steatosis in obese mice fed a high-fat diet. Obesity (Silver Spring). 2010;18:780-787.[↩](#a17) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19798065)
+
+ <b id="f18">18</b> Chrysohoou C, Stefanadis C. Longevity and diet. Myth or pragmatism. Maturitas. 2013;76:303-307.[↩](#a18) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24210636)
+
+ <b id="f19">19</b> Marsh CE, Green DJ, Naylor LH, Guelfi KJ. Consumption of dark chocolate attenuates subsequent food intake compared with milk and white chocolate in postmenopausal women. Appetite. 2017;116:544-551.[↩](#a19) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28572069)
+
+ <b id="f20">20</b> Lightowler H, Thondre S, Holz A, Theis S. Replacement of glycaemic carbohydrates by inulin-type fructans from chicory (oligofructose, inulin) reduces the postprandial blood glucose and insulin response to foods: report of two double-blind, randomized, controlled trials. Eur J Nutr. 2017[↩](#a20) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28255654)
+
+ <b id="f21">21</b> Keithley J, Swanson B. Glucomannan and obesity: a critical review. Altern Ther Health Med. 2005;11:30-34.[↩](#a21) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16320857)
+
+ <b id="f22">22</b> Boets E, Deroover L, Houben E et al. Quantification of in Vivo Colonic Short Chain Fatty Acid Production from Inulin. Nutrients. 2015;7:8916-8929.[↩](#a22) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26516911)
+
+ <b id="f23">23</b> Rivière A, Selak M, Lantin D, Leroy F, De Vuyst L. Bifidobacteria and Butyrate-Producing Colon Bacteria: Importance and Strategies for Their Stimulation in the Human Gut. Front Microbiol. 2016;7:979.[↩](#a23) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27446020)
+
+ <b id="f24">24</b> Tsai CH, Chen EC, Tsay HS, Huang CJ. Wild bitter gourd improves metabolic syndrome: a preliminary dietary supplementation trial. Nutr J. 2012;11:4.[↩](#a24) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22243626)
+
+ <b id="f25">25</b> Raina K, Kumar D, Agarwal R. Promise of bitter melon (Momordica charantia) bioactives in cancer prevention and therapy. Semin Cancer Biol. 2016;40-41:116-129.[↩](#a25) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27452666)
+
+ <b id="f26">26</b> Zhang WW, Feng Z, Narod SA. Multiple therapeutic and preventive effects of 3,3'-diindolylmethane on cancers including prostate cancer and high grade prostatic intraepithelial neoplasia. J Biomed Res. 2014;28:339-348.[↩](#a26) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25332705)
+
+ <b id="f27">27</b> Maruthanila VL, Poornima J, Mirunalini S. Attenuation of Carcinogenesis and the Mechanism Underlying by the Influence of Indole-3-carbinol and Its Metabolite 3,3'-Diindolylmethane: A Therapeutic Marvel. Adv Pharmacol Sci. 2014;2014:832161.[↩](#a27) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24982671)
+
+ <b id="f28">28</b> Salazar-Martinez E, Willett WC, Ascherio A et al. Coffee consumption and risk for type 2 diabetes mellitus. Ann Intern Med. 2004;140:1-8.[↩](#a28) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14706966)
+
+ <b id="f29">29</b> Freedman ND, Park Y, Abnet CC, Hollenbeck AR, Sinha R. Association of coffee drinking with total and cause-specific mortality. N Engl J Med. 2012;366:1891-1904.[↩](#a29) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22591295)
+
+ <b id="f30">30</b> Johnston KL, Clifford MN, Morgan LM. Coffee acutely modifies gastrointestinal hormone secretion and glucose tolerance in humans: glycemic effects of chlorogenic acid and caffeine. Am J Clin Nutr. 2003;78:728-733.[↩](#a30) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14522730)
+
+ <b id="f31">31</b> Bhatti SK, O'Keefe JH, Lavie CJ. Coffee and tea: perks for health and longevity? Curr Opin Clin Nutr Metab Care. 2013;16:688-697.[↩](#a31) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24071782)
+
+ <b id="f32">32</b> Mineharu Y, Koizumi A, Wada Y et al. Coffee, green tea, black tea and oolong tea consumption and risk of mortality from cardiovascular disease in Japanese men and women. J Epidemiol Community Health. 2011;65:230-240.[↩](#a32) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19996359)
+
+ <b id="f33">33</b> Gambero A, Ribeiro ML. The positive effects of yerba maté (Ilex paraguariensis) in obesity. Nutrients. 2015;7:730-750.[↩](#a33) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25621503)
+
+ <b id="f34">34</b> Arçari DP, Bartchewsky W, dos Santos TW et al. Anti-inflammatory effects of yerba maté extract (Ilex paraguariensis) ameliorate insulin resistance in mice with high fat diet-induced obesity. Mol Cell Endocrinol. 2011;335:110-115.[↩](#a34) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21238540)
+
+ <b id="f35">35</b> Gruber J, Tang SY, Halliwell B. Evidence for a trade-off between survival and fitness caused by resveratrol treatment of Caenorhabditis elegans. Ann N Y Acad Sci. 2007;1100:530-542.[↩](#a35) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17460219)
+
+ <b id="f36">36</b> Wang C, Wheeler CT, Alberico T et al. The effect of resveratrol on lifespan depends on both gender and dietary nutrient composition in Drosophila melanogaster. Age (Dordr). 2013;35:69-81.[↩](#a36) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22083438)
+
+ <b id="f37">37</b> Embaby H, Elsayed E, Fawzy M. Insulin Sensitivity and Plasma Glucose Response to Aerobic Exercise in Pregnant Women at Risk for Gestational Diabetes Mellitus. Ethiop J Health Sci. 2016;26:409-414.[↩](#a37) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446846)
+
+ <b id="f38">38</b> Buresh R, Berg K. Exercise for the management of Type 2 Diabetes Mellitus. Factors to consider with current guidelines. J Sports Med Phys Fitness. 2017[↩](#a38) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28462566)
+
+ <b id="f39">39</b> Sonia S, Witjaksono F, Ridwan R. Effect of cooling of cooked white rice on resistant starch content and glycemic response. Asia Pac J Clin Nutr. 2015;24:620-625.[↩](#a39) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26693746)
+
+ <b id="f40">40</b> Akilen R, Deljoomanesh N, Hunschede S et al. The effects of potatoes and other carbohydrate side dishes consumed with meat on food intake, glycemia and satiety response in children. Nutr Diabetes. 2016;6:e195.[↩](#a40) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26878318)
+
+ <b id="f41">41</b> Sidney S. Marijuana Use and Type 2 Diabetes Mellitus: a Review. Curr Diab Rep. 2016;16:117.[↩](#a41) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27747490)
+
+ <b id="f42">42</b> Velasco G, Sánchez C, Guzmán M. Anticancer mechanisms of cannabinoids. Curr Oncol. 2016;23:S23-32.[↩](#a42) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27022311)
+
+ <b id="f43">43</b> Davis MP. Cannabinoids for Symptom Management and Cancer Therapy: The Evidence. J Natl Compr Canc Netw. 2016;14:915-922.[↩](#a43) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=27407130)
+
+ <b id="f44">44</b> Farnetti S, Malandrino N, Luciani D, Gasbarrini G, Capristo E. Food fried in extra-virgin olive oil improves postprandial insulin response in obese, insulin-resistant women. J Med Food. 2011;14:316-321.[↩](#a44) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21142948)
+
+ <b id="f45">45</b> Cuttler JM, Feinendegen LE, Socol Y. Evidence That Lifelong Low Dose Rates of Ionizing Radiation Increase Lifespan in Long- and Short-Lived Dogs. Dose Response. 2017;15:1559325817692903.[↩](#a45) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28321175)
+
+ <b id="f46">46</b> Tang FR, Loke WK, Khoo BC. Low-dose or low-dose-rate ionizing radiation-induced bioeffects in animal models. J Radiat Res. 2017;58:165-182.[↩](#a46) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28077626)
+
+ <b id="f47">47</b> Kumsta C, Chang JT, Schmalz J, Hansen M. Hormetic heat stress and HSF-1 induce autophagy to improve survival and proteostasis in C. elegans. Nat Commun. 2017;8:14337.[↩](#a47) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28198373)
+
+ <b id="f48">48</b> Wan QL, Zheng SQ, Wu GS, Luo HR. Aspirin extends the lifespan of Caenorhabditis elegans via AMPK and DAF-16/FOXO in dietary restriction pathway. Exp Gerontol. 2013;48:499-506.[↩](#a48) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23485446)
+
+ <b id="f49">49</b> Rothwell PM, Fowkes FG, Belch JF, Ogawa H, Warlow CP, Meade TW. Effect of daily aspirin on long-term risk of death due to cancer: analysis of individual patient data from randomised trials. Lancet. 2011;377:31-41.[↩](#a49) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=21144578)
+
+ <b id="f50">50</b> Rumore MM, Kim KS. Potential role of salicylates in type 2 diabetes. Ann Pharmacother. 2010;44:1207-1221.[↩](#a50) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20516365)
+
+ <b id="f51">51</b> Arvanitakis C, Chen GH, Folscroft J, Greenberger NJ. Effect of aspirin on intestinal absorption of glucose, sodium, and water in man. Gut. 1977;18:187-190.[↩](#a51) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=856676)
+
+ <b id="f52">52</b> Gallagher EJ, Leroith D. Diabetes, cancer, and metformin: connections of metabolism and cell proliferation. Ann N Y Acad Sci. 2011;1243:54-68.[↩](#a52) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22211893)
+
+ <b id="f53">53</b> Algire C, Amrein L, Zakikhani M, Panasci L, Pollak M. Metformin blocks the stimulative effect of a high-energy diet on colon carcinoma growth in vivo and is associated with reduced expression of fatty acid synthase. Endocr Relat Cancer. 2010;17:351-360.[↩](#a53) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20228137)
+
+ <b id="f54">54</b> Cabreiro F, Au C, Leung KY et al. Metformin retards aging in C. elegans by altering microbial folate and methionine metabolism. Cell. 2013;153:228-239.[↩](#a54) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23540700)
+
+ <b id="f55">55</b> Goodwin PJ, Parulekar WR, Gelmon KA et al. Effect of metformin vs placebo on and metabolic factors in NCIC CTG MA.32. J Natl Cancer Inst. 2015;107[↩](#a55) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25740979)
+
+ <b id="f56">56</b> Mouchiroud L, Molin L, Dalliere N, Solari F. Life span extension by resveratrol, rapamycin, and metformin: The promise of dietary restriction mimetics for an healthy aging. Biofactors. 2010;36:377-382.[↩](#a56) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20848587)
+
+ <b id="f57">57</b> McClean PL, Hölscher C. Liraglutide can reverse memory impairment, synaptic loss and reduce plaque load in aged APP/PS1 mice, a model of Alzheimer's disease. Neuropharmacology. 2014;76 Pt A:57-67.[↩](#a57) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23973293)
+
+ <b id="f58">58</b> Cummings BP, Stanhope KL, Graham JL et al. Chronic administration of the glucagon-like peptide-1 analog, liraglutide, delays the onset of diabetes and lowers triglycerides in UCD-T2DM rats. Diabetes. 2010;59:2653-2661.[↩](#a58) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20622169)
+
+ <b id="f59">59</b> Rosak C, Mertes G. Effects of acarbose on proinsulin and insulin secretion and their potential significance for the intermediary metabolism and cardiovascular system. Curr Diabetes Rev. 2009;5:157-164.[↩](#a59) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19689250)
+
+ <b id="f60">60</b> Srinivasan V, Ohta Y, Espino J et al. Metabolic syndrome, its pathophysiology and the role of melatonin. Recent Pat Endocr Metab Immune Drug Discov. 2013;7:11-25.[↩](#a60) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22946959)
+
+ <b id="f61">61</b> Cuskelly GJ, Mooney KM, Young IS. Folate and vitamin B12: friendly or enemy nutrients for the elderly. Proc Nutr Soc. 2007;66:548-558.[↩](#a61) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=17961276)
+
+ <b id="f62">62</b> Oberlin BS, Tangney CC, Gustashaw KA, Rasmussen HE. Vitamin B12 deficiency in relation to functional disabilities. Nutrients. 2013;5:4462-4475.[↩](#a62) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24225845)
+
+ <b id="f63">63</b> Carmel R. Efficacy and safety of fortification and supplementation with vitamin B12: biochemical and physiological effects. Food Nutr Bull. 2008;29:S177-87.[↩](#a63) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709891)
+
+ <b id="f64">64</b> Allen LH. Causes of vitamin B12 and folate deficiency. Food Nutr Bull. 2008;29:S20-34; discussion S35.[↩](#a64) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18709879)
+
+ <b id="f65">65</b> Van der Kuy PHM, Merkus FWHM, Russel FGM, Lohman JJHM, Hooymans PM. Pharmacokinetics of intranasal and oral hydroxocobalamin in healthy subjects. Brit J Clin Pharmacol. 2001;51:505P.[↩](#a65
+
+ <b id="f66">66</b> Schwingshackl L, Schwedhelm C, Hoffmann G et al. Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. Am J Clin Nutr. 2017;105:1462-1473.[↩](#a66) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28446499)
+
+ <b id="f67">67</b> Mehedint MG, Zeisel SH. Choline's role in maintaining liver function: new evidence for epigenetic mechanisms. Curr Opin Clin Nutr Metab Care. 2013;16:339-345.[↩](#a67) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23493015)
+
+ <b id="f68">68</b> Institute of Medicine (US) Standing Committee on the Scientific Evaluation of Dietary Reference Intakes and its Panel on Folate OBV, and Choline. Dietary Reference Intakes for Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline. 1998[↩](#a68) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23193625)
+
+ <b id="f69">69</b> Bjelakovic G, Gluud LL, Nikolova D et al. Vitamin D supplementation for prevention of mortality in adults. Cochrane Database Syst Rev. 2014CD007470.[↩](#a69) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24414552)
+
+ <b id="f70">70</b> Rosanoff A, Weaver CM, Rude RK. Suboptimal magnesium status in the United States: are the health consequences underestimated. Nutr Rev. 2012;70:153-164.[↩](#a70) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22364157)
+
+ <b id="f71">71</b> Ayuk J, Gittoes NJ. Contemporary view of the clinical relevance of magnesium homeostasis. Ann Clin Biochem. 2014;51:179-188.[↩](#a71) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=24402002)
+
+ <b id="f72">72</b> Veronese N, Berton L, Carraro S et al. Effect of oral magnesium supplementation on physical performance in healthy elderly women involved in a weekly exercise program: a randomized controlled trial. Am J Clin Nutr. 2014;100:974-981.[↩](#a72) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25008857)
+
+ <b id="f73">73</b> Nielsen FH. Update on human health effects of boron. J Trace Elem Med Biol. 2014;28:383-387.[↩](#a73) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25063690)
+
+ <b id="f74">74</b> Bakken NA, Hunt CD. Dietary boron decreases peak pancreatic in situ insulin release in chicks and plasma insulin concentrations in rats regardless of vitamin D or magnesium status. J Nutr. 2003;133:3577-3583.[↩](#a74) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=14608076)
+
+ <b id="f75">75</b> Pizzorno L. Nothing Boring About Boron. Integr Med (Encinitas). 2015;14:35-48.[↩](#a75) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=26770156)
+
+ <b id="f76">76</b> Liang Y, Steinbach G, Maier V, Pfeiffer EF. The effect of artificial sweetener on insulin secretion. 1. The effect of acesulfame K on insulin secretion in the rat (studies in vivo). Horm Metab Res. 1987;19:233-238.[↩](#a76) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2887500)
+
+ <b id="f77">77</b> Fowler SP, Williams K, Resendez RG, Hunt KJ, Hazuda HP, Stern MP. Fueling the obesity epidemic? Artificially sweetened beverage use and long-term weight gain. Obesity (Silver Spring). 2008;16:1894-1900.[↩](#a77) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18535548)
+
+ <b id="f78">78</b> Margină D, Ilie M, Grădinaru D, Androutsopoulos VP, Kouretas D, Tsatsakis AM. Natural products-friends or foes. Toxicol Lett. 2015;236:154-167.[↩](#a78) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=25980574)
+
+ <b id="f79">79</b> Figueiredo JC, Grau MV, Haile RW et al. Folic acid and risk of prostate cancer: results from a randomized clinical trial. J Natl Cancer Inst. 2009;101:432-435.[↩](#a79) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19276452)
+
+ <b id="f80">80</b> Giovannucci E, Chan AT. Role of vitamin and mineral supplementation and aspirin use in cancer survivors. J Clin Oncol. 2010;28:4081-4085.[↩](#a80) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20697066)
+
+ <b id="f81">81</b> Roswall N, Olsen A, Christensen J et al. Micronutrient intake in relation to all-cause mortality in a prospective Danish cohort. Food Nutr Res. 2012;56[↩](#a81) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22489215)
+
+ <b id="f82">82</b> Yang CS, Suh N, Kong AN. Does vitamin E prevent or promote cancer. Cancer Prev Res (Phila). 2012;5:701-705.[↩](#a82) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22490437)
+
+ <b id="f83">83</b> Schwingshackl L, Boeing H, Stelmach-Mardas M et al. Dietary Supplements and Risk of Cause-Specific Death, Cardiovascular Disease, and Cancer: A Systematic Review and Meta-Analysis of Primary Prevention Trials. Adv Nutr. 2017;8:27-39.[↩](#a83) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28096125)
+
+ <b id="f84">84</b> Giovannucci E, Liu Y, Stampfer MJ, Willett WC. A prospective study of calcium intake and incident and fatal prostate cancer. Cancer Epidemiol Biomarkers Prev. 2006;15:203-210.[↩](#a84) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=16492906)
+
+ <b id="f85">85</b> Soni MG, Thurmond TS, Miller ER, Spriggs T, Bendich A, Omaye ST. Safety of vitamins and minerals: controversies and perspective. Toxicol Sci. 2010;118:348-355.[↩](#a85) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20861067)
+
+ <b id="f86">86</b> Goralczyk R. Beta-carotene and lung cancer in smokers: review of hypotheses and status of research. Nutr Cancer. 2009;61:767-774.[↩](#a86) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=20155614)
+
+ <b id="f87">87</b> Qiao YL, Dawsey SM, Kamangar F et al. Total and cancer mortality after supplementation with vitamins and minerals: follow-up of the Linxian General Population Nutrition Intervention Trial. J Natl Cancer Inst. 2009;101:507-518.[↩](#a87) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19318634)
+
+ <b id="f88">88</b> Pallauf K, Bendall JK, Scheiermann C et al. Vitamin C and lifespan in model organisms. Food Chem Toxicol. 2013;58:255-263.[↩](#a88) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23643700)
+
+ <b id="f89">89</b> Soriano S, Alonso-Magdalena P, Garcia-Arevalo M et al. Rapid insulinotropic action of low doses of bisphenol-A on mouse and human islets of Langerhans: role of estrogen receptor beta. PLoS One. 2012;7:e31109.[↩](#a89) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=22347437)
+
+ <b id="f90">90</b> Björnsdotter MK, de Boer J, Ballesteros-Gómez A. Bisphenol A and replacements in thermal paper: A review. Chemosphere. 2017;182:691-706.[↩](#a90) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28528315)
+
+ <b id="f91">91</b> Touitou Y, Reinberg A, Touitou D. Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption. Life Sci. 2017;173:94-106.[↩](#a91) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=28214594)
+
+ <b id="f92">92</b> Peschke E, Bahr I, Muhlbauer E. Melatonin and Pancreatic Islets: Interrelationships between Melatonin, Insulin and Glucagon. Int J Mol Sci. 2013;14:6981-7015.[↩](#a92) [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=23535335)
+
 
