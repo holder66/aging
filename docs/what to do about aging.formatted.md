@@ -20,17 +20,17 @@ Because everyone is different, what I say should not be interpreted as medical a
 
 ### Diet 
 
-#### [Caloric restriction](https://en.wikipedia.org/wiki/Calorie_restriction) 
+#### Caloric restriction 
 
-During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of caloric restriction on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
+During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of [caloric restriction](https://en.wikipedia.org/wiki/Calorie_restrictio) on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
 
 Caloric restriction was subsequently studied in a variety of species [1] and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
 
 Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate [insulin](https://en.wikipedia.org/wiki/Insulin) secretion. Thus, caloric restriction powerfully reduces insulin levels [2]. 
 
-#### [Methionine restriction](https://en.wikipedia.org/wiki/Methionine#Restriction) 
+#### Methionine restriction 
 
-Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [3]. Paradoxically, MR increases appetite and food intake [4], while at the same time increasing energy expenditure (EE) [5] resulting in weight loss overall [3]. The exact mechanisms involved remain to be elucidated. 
+Dietary [methionine restriction](https://en.wikipedia.org/wiki/Methionine#Restriction) (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [3]. Paradoxically, MR increases appetite and food intake [4], while at the same time increasing energy expenditure (EE) [5] resulting in weight loss overall [3]. The exact mechanisms involved remain to be elucidated. 
 
  Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [6]. 
 
