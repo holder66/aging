@@ -24,47 +24,47 @@ Because everyone is different, what I say should not be interpreted as medical a
 
 During the Great Depression of the 1930’s, many people believed that the widespread poverty it caused would lead to ill health, because individuals did not have enough to eat. To prove this, with the goal of convincing governments to increase food aid, scientists studied the effect of caloric restriction on rats. To their great surprise, when rats received only 70% of their usual caloric intake, they actually were healthier and lived longer! 
 
-Caloric restriction was subsequently studied in a variety of species [<a id="a1">[1](#f1)</a>] and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
+Caloric restriction was subsequently studied in a variety of species [1] and turns out to be the intervention which most robustly increases healthy longevity. For example, rats and mice live up to 50% longer. Of course, being perpetually hungry is not something these lab animals submit to voluntarily! 
 
-Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate [insulin](https://en.wikipedia.org/wiki/Insulin) secretion. Thus, caloric restriction powerfully reduces insulin levels [<a id="a2">[2](#f2)</a>]. 
+Dietary carbohydrates (sugars and starches), and to a lesser extent, dietary proteins, stimulate [insulin](https://en.wikipedia.org/wiki/Insulin) secretion. Thus, caloric restriction powerfully reduces insulin levels [2]. 
 
 #### [Methionine restriction](https://en.wikipedia.org/wiki/Methionine#Restriction) 
 
-Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [<a id="a3">[3](#f3)</a>]. Paradoxically, MR increases appetite and food intake [<a id="a4">[4](#f4)</a>], while at the same time increasing energy expenditure (EE) [<a id="a5">[5](#f5)</a>] resulting in weight loss overall [<a id="a6">[6](#f6)</a>]. The exact mechanisms involved remain to be elucidated. 
+Dietary methionine restriction (MR) has been found to be effective at treating certain cancers. In addition, in experimental animals it has been found to be as effective as caloric restriction (CR) in increasing healthy lifespan [3]. Paradoxically, MR increases appetite and food intake [4], while at the same time increasing energy expenditure (EE) [5] resulting in weight loss overall [3]. The exact mechanisms involved remain to be elucidated. 
 
- Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [<a id="a7">[7](#f7)</a>]. 
+ Because the essential amino acid (EAA) methionine is found in low concentrations in fruits and vegetables, MR typically involves a vegan-type diet. In fact, it has been proposed that the beneficial effects of vegetarian diets on health may be due to their inherent methionine restriction [6]. 
 
- As an EAA, methionine is necessary for young animals to grow and reproduce [<a id="a8">[8](#f8)</a>]. Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [<a id="a9">[9](#f9)</a>]. Thus, restricting its intake may help to slow down aging and aging-related diseases [<a id="a10">[10](#f10)</a>] including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and [insulin-like growth factor](https://en.wikipedia.org/wiki/Insulin-like_growth_factor) signalling [<a id="a11">[11](#f11)</a>]. 
+ As an EAA, methionine is necessary for young animals to grow and reproduce [7]. Once the reproductive phase is over, however, the same dietary component may contribute to the aging process [8]. Thus, restricting its intake may help to slow down aging and aging-related diseases [9] including cancer, cardiovascular disease, diabetes, and dementia. The mechanism(s) involved may have to do with reduced insulin and [insulin-like growth factor](https://en.wikipedia.org/wiki/Insulin-like_growth_factor) signalling [3]. 
 
  Animal products are highest in methionine content, both because animal proteins have a relatively high percentage of methionine, and because their protein content is usually also high. Nuts are next highest, followed by grains and [legumes](https://en.wikipedia.org/wiki/Legume). Other vegetables are lower, and fruits are the lowest of all. The range goes from 1 mg methionine per 100 g of apple, to over 1000 mg per 100 g for beef and parmesan cheese. 
 
- The studies in experimental animals used a reduction in methionine content from 0.86% (dry weight) to 0.17%, (ie to 1/5) and recent analyses using mice suggest that the range needs to be kept between 0.12% and 0.25% [<a id="a12">[12](#f12)</a>]. In human adults, a 2000 kcal/day diet is recommended for weight maintenance. A typical breakdown might be 20% carbohydrates, 65% fat and 15% protein by calories. This works out to 400 kcal from carbs, ie 100 g dry weight of carbs; 1300 kcal fat, or 144 g; and 300 kcal from protein, or 75 g. Thus, the total dry weight is 100+144+75=319 g. Protein contains on average 2% methionine, thus a typical diet has 75 x .02 = 1500 mg methionine. One fifth of this is 300 mg methionine daily. This is probably the target to aim for. In reality, though, many people actually eat considerably more than 75 g of protein per day. Would this raise the target? We don’t know. 
+ The studies in experimental animals used a reduction in methionine content from 0.86% (dry weight) to 0.17%, (ie to 1/5) and recent analyses using mice suggest that the range needs to be kept between 0.12% and 0.25% [10]. In human adults, a 2000 kcal/day diet is recommended for weight maintenance. A typical breakdown might be 20% carbohydrates, 65% fat and 15% protein by calories. This works out to 400 kcal from carbs, ie 100 g dry weight of carbs; 1300 kcal fat, or 144 g; and 300 kcal from protein, or 75 g. Thus, the total dry weight is 100+144+75=319 g. Protein contains on average 2% methionine, thus a typical diet has 75 x .02 = 1500 mg methionine. One fifth of this is 300 mg methionine daily. This is probably the target to aim for. In reality, though, many people actually eat considerably more than 75 g of protein per day. Would this raise the target? We don’t know. 
 
  To assist with meal planning, I’ve created an app which displays values from the Unites States Department of Agriculture nutrient database. To run the app on an Apple iPhone or iPad, first install [Filemaker Go](https://itunes.apple.com/us/app/FileMaker-go-15/id998694623?mt=8) (free in the App Store), then download my app [here](http://henry.olders.ca/upload/methionine_apps/USDASR27nutrients_v1_0.fmp12) and open it in Filemaker Go. 
 
  #### Protein restriction 
 
- Studies in insects and mice have shown that low protein, high carbohydrate diets are associated with longest lifespan in ad libitum fed animals [<a id="a13">[13](#f13)</a>]. In humans, low protein diets reduce the risk for cancer and overall mortality in the population aged ≤65 [<a id="a14">[14](#f14)</a>]; this may be due to reduced Insulin-Like Growth Factor signalling. In the 50 to 65 age range, subjects with high protein intake were more than 4 times as likely to die of cancer compared to those in the low protein group! This effect seemed almost entirely due to animal protein intake, as opposed to plant protein. This same study suggested that in those over 65 years, increased protein intake may protect against mortality. However, it is possible that this applies to frail and malnourished individuals. 
+ Studies in insects and mice have shown that low protein, high carbohydrate diets are associated with longest lifespan in ad libitum fed animals [11]. In humans, low protein diets reduce the risk for cancer and overall mortality in the population aged ≤65 [12]; this may be due to reduced Insulin-Like Growth Factor signalling. In the 50 to 65 age range, subjects with high protein intake were more than 4 times as likely to die of cancer compared to those in the low protein group! This effect seemed almost entirely due to animal protein intake, as opposed to plant protein. This same study suggested that in those over 65 years, increased protein intake may protect against mortality. However, it is possible that this applies to frail and malnourished individuals. 
 
  #### Spices 
 
- A number of spices have been shown to have positive health effects, including lifespan extension [<a id="a15">[15](#f15)</a>]. This includes [curcumin](https://en.wikipedia.org/wiki/Curcumin) [<a id="a16">[16](#f16)</a>; <a id="a17">[17](#f17)</a>], ginger [<a id="a18">[18](#f18)</a>], and [capsaicin](https://en.wikipedia.org/wiki/Capsaicin) (in hot chili peppers) [<a id="a19">[19](#f19)</a>]. 
+ A number of spices have been shown to have positive health effects, including lifespan extension [13]. This includes [curcumin](https://en.wikipedia.org/wiki/Curcumin) [14; 15], ginger [16], and [capsaicin](https://en.wikipedia.org/wiki/Capsaicin) (in hot chili peppers) [17]. 
 
  #### Chocolate 
 
- Dark chocolate is one of a number of foods with anti-inflammatory properties that is being investigated for anti-aging effects [<a id="a20">[20](#f20)</a>]. In a study with postmenopausal women, dark chocolate (80%) given 90 minutes before a meal, suppressed food intake significantly more that milk or white chocolate [<a id="a21">[21](#f21)</a>]. The white and milk chocolate caused transient increases in blood glucose and insulin levels, compared to the dark chocolate. 
+ Dark chocolate is one of a number of foods with anti-inflammatory properties that is being investigated for anti-aging effects [18]. In a study with postmenopausal women, dark chocolate (80%) given 90 minutes before a meal, suppressed food intake significantly more that milk or white chocolate [19]. The white and milk chocolate caused transient increases in blood glucose and insulin levels, compared to the dark chocolate. 
 
  #### High fibre foods 
 
- Certain foods, including [plantain](https://en.wikipedia.org/wiki/Plantain), [burdock](https://en.wikipedia.org/wiki/Arctium) root, [chicory](https://en.wikipedia.org/wiki/Chicory) root, garlic, [Jerusalem artichoke](https://en.wikipedia.org/wiki/Jerusalem_artichoke), [jicama](https://en.wikipedia.org/wiki/Pachyrhizus_erosus), leek, and onion, have appreciable [inulin](https://en.wikipedia.org/wiki/Inulin) content. Inulin, a non-digestible carbohydrate, is a [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)) dietary fibre which reduces the glucose and insulin responses after meals [<a id="a22">[22](#f22)</a>]. Another such non-digestible carbohydrate is [glucomannan](https://en.wikipedia.org/wiki/Glucomannan), found in [konjac](https://en.wikipedia.org/wiki/Konjac), which has been shown to promote weight loss [<a id="a23">[23](#f23)</a>]. 
+ Certain foods, including [plantain](https://en.wikipedia.org/wiki/Plantain), [burdock](https://en.wikipedia.org/wiki/Arctium) root, [chicory](https://en.wikipedia.org/wiki/Chicory) root, garlic, [Jerusalem artichoke](https://en.wikipedia.org/wiki/Jerusalem_artichoke), [jicama](https://en.wikipedia.org/wiki/Pachyrhizus_erosus), leek, and onion, have appreciable [inulin](https://en.wikipedia.org/wiki/Inulin) content. Inulin, a non-digestible carbohydrate, is a [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)) dietary fibre which reduces the glucose and insulin responses after meals [20]. Another such non-digestible carbohydrate is [glucomannan](https://en.wikipedia.org/wiki/Glucomannan), found in [konjac](https://en.wikipedia.org/wiki/Konjac), which has been shown to promote weight loss [21]. 
 
- Humans do not possess the enzymes necessary to break down inulin or glucomannan so they can be absorbed. However, in individuals with a healthy mix of gut bacteria, inulin and glucomannan are fermented by some of these bacteria, producing gas but also short-chain fatty acids such as [butyrate](https://en.wikipedia.org/wiki/Butyrate) [<a id="a24">[24](#f24)</a>], which suppresses inflammation and has other health benefits [<a id="a25">[25](#f25)</a>]. 
+ Humans do not possess the enzymes necessary to break down inulin or glucomannan so they can be absorbed. However, in individuals with a healthy mix of gut bacteria, inulin and glucomannan are fermented by some of these bacteria, producing gas but also short-chain fatty acids such as [butyrate](https://en.wikipedia.org/wiki/Butyrate) [22], which suppresses inflammation and has other health benefits [23]. 
 
  #### Other foods 
 
- In other cultures, certain foods have been found that have an anti-obesity and anti-diabetic effect. For example, [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia), which originated in India, is widely used in China and in the Caribbean, and goes by a variety of names. It is effective in [metabolic syndrome](https://en.wikipedia.org/wiki/Metabolic_syndrome) [<a id="a26">[26](#f26)</a>] and shows promise as an anticancer agent [<a id="a27">[27](#f27)</a>]. 
+ In other cultures, certain foods have been found that have an anti-obesity and anti-diabetic effect. For example, [bitter melon](https://en.wikipedia.org/wiki/Momordica_charantia), which originated in India, is widely used in China and in the Caribbean, and goes by a variety of names. It is effective in [metabolic syndrome](https://en.wikipedia.org/wiki/Metabolic_syndrome) [24] and shows promise as an anticancer agent [25]. 
 
- [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables), which include broccoli, cauliflower, kale, cabbage, brussels sprouts, turnips, [kohlrabi](https://en.wikipedia.org/wiki/Kohlrabi), [bok choy](https://en.wikipedia.org/wiki/Bok_choy), and radishes, contain many compounds with anticancer activity [<a id="a28">[28](#f28)</a>; <a id="a29">[29](#f29)</a>]. 
+ [Cruciferous vegetables](https://en.wikipedia.org/wiki/Cruciferous_vegetables), which include broccoli, cauliflower, kale, cabbage, brussels sprouts, turnips, [kohlrabi](https://en.wikipedia.org/wiki/Kohlrabi), [bok choy](https://en.wikipedia.org/wiki/Bok_choy), and radishes, contain many compounds with anticancer activity [26; 27]. 
 
  Then there are varieties of vegetables and fruits which, because of a high content of desirable [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical), may be worthwhile seeking out and consuming in preference to the regular supermarket varieties. This includes [black rice](https://en.wikipedia.org/wiki/Black_rice), [purple cauliflower](https://en.wikipedia.org/wiki/Cauliflower#Colours), [purple corn](https://en.wikipedia.org/wiki/Purple_corn), [blue potatoes](https://en.wikipedia.org/wiki/List_of_potato_cultivars)… 
 
@@ -72,67 +72,67 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### coffee 
 
- Coffee consumption reduces risk of type 2 diabetes, certain cancers, dementia, cardiovascular disease [<a id="a30">[30](#f30)</a>]. Coffee also reduces mortality risk [<a id="a31">[31](#f31)</a>]. It may act through reducing insulin (by decreasing intestinal glucose absorption) [<a id="a32">[32](#f32)</a>]. 
+ Coffee consumption reduces risk of type 2 diabetes, certain cancers, dementia, cardiovascular disease [28]. Coffee also reduces mortality risk [29]. It may act through reducing insulin (by decreasing intestinal glucose absorption) [30]. 
 
  #### green tea 
 
- Tea consumption, especially green tea, is associated with significantly reduced risks for stroke, diabetes and depression [<a id="a33">[33](#f33)</a>] and reduced risk of mortality [<a id="a34">[34](#f34)</a>]. 
+ Tea consumption, especially green tea, is associated with significantly reduced risks for stroke, diabetes and depression [31] and reduced risk of mortality [32]. 
 
  #### [yerba maté](https://en.wikipedia.org/wiki/Yerba_mate) tea 
 
- Yerba maté is a type of bush used to produce a tea that is widely consumed as an energy drink in South America. It has been fount to have anti-obesity [<a id="a35">[35](#f35)</a>] and anti-inflammatory [<a id="a36">[36](#f36)</a>] effects. 
+ Yerba maté is a type of bush used to produce a tea that is widely consumed as an energy drink in South America. It has been fount to have anti-obesity [33] and anti-inflammatory [34] effects. 
 
  #### red wine (resveratrol) 
 
- [Resveratrol](https://en.wikipedia.org/wiki/Resveratrol), a substance found in grape skins, is believed to be responsible for the beneficial effects on health of drinking red wine. It’s a [polyphenol](https://en.wikipedia.org/wiki/Polyphenol) which has antioxidant, anti-inflammatory, and anti-carcinogenic effects. It increases longevity, and possibly with fewer negative effects when we’re younger than some of the other interventions [<a id="a37">[37](#f37)</a>; <a id="a38">[38](#f38)</a>] 
+ [Resveratrol](https://en.wikipedia.org/wiki/Resveratrol), a substance found in grape skins, is believed to be responsible for the beneficial effects on health of drinking red wine. It’s a [polyphenol](https://en.wikipedia.org/wiki/Polyphenol) which has antioxidant, anti-inflammatory, and anti-carcinogenic effects. It increases longevity, and possibly with fewer negative effects when we’re younger than some of the other interventions [35; 36] 
 
  ### Other Interventions 
 
  #### Exercise 
 
- Aerobic exercise has been shown to decrease fasting blood glucose and fasting insulin, for example in pregnant women at risk for [gestational diabetes](https://en.wikipedia.org/wiki/Gestational_diabetes) [<a id="a39">[39](#f39)</a>]. More vigorous forms of exercise, such as interval training, have been shown to be safe in individuals with Type 2 diabetes, may provide even better glucose control, and improve compliance because of significantly reduced time requirements [<a id="a40">[40](#f40)</a>]. 
+ Aerobic exercise has been shown to decrease fasting blood glucose and fasting insulin, for example in pregnant women at risk for [gestational diabetes](https://en.wikipedia.org/wiki/Gestational_diabetes) [37]. More vigorous forms of exercise, such as interval training, have been shown to be safe in individuals with Type 2 diabetes, may provide even better glucose control, and improve compliance because of significantly reduced time requirements [38]. 
 
  #### Cooling cooked foods 
 
- When starchy foods such as potatoes, beans, or white rice are cooled after cooking, the links between the glucose molecules in the starch are rearranged, making the starch more difficult to digest; more of the starch becomes “[resistant](https://en.wikipedia.org/wiki/Resistant_starch)”. This process, called [retrogradation](https://en.wikipedia.org/wiki/Retrogradation), reduces the amount of insulin produced as a result of eating that starchy food [<a id="a41">[41](#f41)</a>]. Additionally, the resistant starch acts as a prebiotic, in that it feeds gut bacteria which ferment the starch to butyrate and other short-chain fatty acids. 
+ When starchy foods such as potatoes, beans, or white rice are cooled after cooking, the links between the glucose molecules in the starch are rearranged, making the starch more difficult to digest; more of the starch becomes “[resistant](https://en.wikipedia.org/wiki/Resistant_starch)”. This process, called [retrogradation](https://en.wikipedia.org/wiki/Retrogradation), reduces the amount of insulin produced as a result of eating that starchy food [39]. Additionally, the resistant starch acts as a prebiotic, in that it feeds gut bacteria which ferment the starch to butyrate and other short-chain fatty acids. 
 
- This may help to explain why fried french fries produced lower glucose and insulin responses in children compared to pasta, rice, or boiled mashed potatoes [<a id="a42">[42](#f42)</a>]. 
+ This may help to explain why fried french fries produced lower glucose and insulin responses in children compared to pasta, rice, or boiled mashed potatoes [40]. 
 
  #### Cannabis 
 
- Marijuana smokers have lower rates of obesity, metabolic syndrome, and diabetes in cross-sectional studies [<a id="a43">[43](#f43)</a>]. There is also evidence that [cannabinoids](https://en.wikipedia.org/wiki/Cannabinoid) may have anticancer activity [<a id="a44">[44](#f44)</a>; <a id="a45">[45](#f45)</a>] but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells [<a id="a46">[46](#f46)</a>]. 
+ Marijuana smokers have lower rates of obesity, metabolic syndrome, and diabetes in cross-sectional studies [41]. There is also evidence that [cannabinoids](https://en.wikipedia.org/wiki/Cannabinoid) may have anticancer activity [42; 43] but this effect may be dose-dependent, as there is also evidence that these molecules may stimulate cancer cells [42]. 
 
  #### Frying foods in extra-virgin olive oil 
 
- Reduces insulin in obese insulin-resistant women [<a id="a47">[47](#f47)</a>]. See [this article](http://henry.olders.ca/wordpress/?p=999) for a comparison of oils for cooking.
+ Reduces insulin in obese insulin-resistant women [44]. See [this article](http://henry.olders.ca/wordpress/?p=999) for a comparison of oils for cooking.
 
  #### Stress 
 
- Most of the lifespan-prolonging interventions in various experimental organisms are stresses, whether food stress, heat stress, or cold stress. Even low-dose [ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation) has been shown to increase longevity [<a id="a48">[48](#f48)</a>; <a id="a49">[49](#f49)</a>]! And of course, the stresses induced by exercise increase muscle strength, cardiorespiratory fitness, and bone strength. 
+ Most of the lifespan-prolonging interventions in various experimental organisms are stresses, whether food stress, heat stress, or cold stress. Even low-dose [ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation) has been shown to increase longevity [45; 46]! And of course, the stresses induced by exercise increase muscle strength, cardiorespiratory fitness, and bone strength. 
 
- So stress is not something to avoid, but rather to welcome. “What doesn’t kill you makes you stronger”. The mechanism may be [autophagy](https://en.wikipedia.org/wiki/Autophagy) (cellular tear-down of worn-out components for recycling) [<a id="a50">[50](#f50)</a>]. So turn the thermostat down a bit. Do you really need an SPF-80 sunblock? Walk or cycle instead of driving. Are you obsessive about keeping your house clean, or scrubbing your fruits and vegetables? Consider getting up earlier if you have insomnia or depressive symptoms such as fatigue. 
+ So stress is not something to avoid, but rather to welcome. “What doesn’t kill you makes you stronger”. The mechanism may be [autophagy](https://en.wikipedia.org/wiki/Autophagy) (cellular tear-down of worn-out components for recycling) [47]. So turn the thermostat down a bit. Do you really need an SPF-80 sunblock? Walk or cycle instead of driving. Are you obsessive about keeping your house clean, or scrubbing your fruits and vegetables? Consider getting up earlier if you have insomnia or depressive symptoms such as fatigue. 
 
  ### Medications 
 
  #### Aspirin 
 
- Aspirin extends the healthy lifespan of C. Elegans worms [<a id="a51">[51](#f51)</a>]. In humans, it reduces the risk of cardiovascular events by about 25%; daily aspirin use for 5 years or longer reduced cancer mortality by 20% for solid tumours and by 35% for colorectal cancers [<a id="a52">[52](#f52)</a>]. It’s been known since at least 1876 that aspirin and other [salicylates](https://en.wikipedia.org/wiki/Salicylic_acid) lower blood glucose levels in type 2 diabetics [<a id="a53">[53](#f53)</a>]; experimental studies suggest that this effect is due to a decrease in glucose absorption by the small intestine [<a id="a54">[54](#f54)</a>]. 
+ Aspirin extends the healthy lifespan of C. Elegans worms [48]. In humans, it reduces the risk of cardiovascular events by about 25%; daily aspirin use for 5 years or longer reduced cancer mortality by 20% for solid tumours and by 35% for colorectal cancers [49]. It’s been known since at least 1876 that aspirin and other [salicylates](https://en.wikipedia.org/wiki/Salicylic_acid) lower blood glucose levels in type 2 diabetics [50]; experimental studies suggest that this effect is due to a decrease in glucose absorption by the small intestine [51]. 
 
  #### Metformin 
 
- [Metformin](https://en.wikipedia.org/wiki/Metformin) is the most widely used oral antidiabetic medication. It reduces risk of certain cancers, dementia, cardiovascular disease [<a id="a55">[55](#f55)</a>; <a id="a56">[56](#f56)</a>] and increases longevity [<a id="a57">[57](#f57)</a>]. It is known to reduce insulin levels [<a id="a58">[58](#f58)</a>]. 
+ [Metformin](https://en.wikipedia.org/wiki/Metformin) is the most widely used oral antidiabetic medication. It reduces risk of certain cancers, dementia, cardiovascular disease [52; 53] and increases longevity [54]. It is known to reduce insulin levels [55]. 
 
  #### Rapamycin 
 
- [Rapamycin](https://en.wikipedia.org/wiki/Sirolimus), or [sirolimus](https://en.wikipedia.org/wiki/Sirolimus), is a drug used clinically for immunosuppression to prevent graft rejection, and also as cancer treatment. It directly inhibits the protein complex [TOR](https://en.wikipedia.org/wiki/Mechanistic_target_of_rapamycin), which regulates cell growth, cell proliferation, cell motility, cell survival, protein synthesis, and [transcription](https://en.wikipedia.org/wiki/Transcription_(biology)) [<a id="a59">[59](#f59)</a>]. 
+ [Rapamycin](https://en.wikipedia.org/wiki/Sirolimus), or [sirolimus](https://en.wikipedia.org/wiki/Sirolimus), is a drug used clinically for immunosuppression to prevent graft rejection, and also as cancer treatment. It directly inhibits the protein complex [TOR](https://en.wikipedia.org/wiki/Mechanistic_target_of_rapamycin), which regulates cell growth, cell proliferation, cell motility, cell survival, protein synthesis, and [transcription](https://en.wikipedia.org/wiki/Transcription_(biology)) [56]. 
 
  #### Liraglutide 
 
- Injected once daily, [liraglutide](https://en.wikipedia.org/wiki/Liraglutide) is used to treat both type 2 diabetes and obesity. In mice, it has been shown to reduce dementia [<a id="a60">[60](#f60)</a>]. Liraglutide lowers fasting insulin levels [<a id="a61">[61](#f61)</a>]. 
+ Injected once daily, [liraglutide](https://en.wikipedia.org/wiki/Liraglutide) is used to treat both type 2 diabetes and obesity. In mice, it has been shown to reduce dementia [57]. Liraglutide lowers fasting insulin levels [58]. 
 
  #### Acarbose 
 
- [Acarbose](https://en.wikipedia.org/wiki/Acarbose) is a medication used to treat type 2 diabetes. It acts to decrease absorption of glucose from the gut. Less glucose results in less insulin being secreted [<a id="a62">[62](#f62)</a>]. 
+ [Acarbose](https://en.wikipedia.org/wiki/Acarbose) is a medication used to treat type 2 diabetes. It acts to decrease absorption of glucose from the gut. Less glucose results in less insulin being secreted [59]. 
 
  ### Supplements 
 
@@ -142,49 +142,49 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  [Melatonin](https://en.wikipedia.org/wiki/Melatonin), a hormone secreted by the [pituitary gland](https://en.wikipedia.org/wiki/Pituitary_gland), regulates sleep and wakefulness. 
 
- Melatonin administration has been shown to inhibit insulin release [<a id="a63">[63](#f63)</a>]. As melatonin levels decrease with age, it is possible that the resulting higher insulin levels contribute to the conditions of aging. 
+ Melatonin administration has been shown to inhibit insulin release [60]. As melatonin levels decrease with age, it is possible that the resulting higher insulin levels contribute to the conditions of aging. 
 
  I take 10 mg of double action melatonin every night, just when I get into bed. Double action refers to a portion which is immediate release and a second portion which is timed release. 
 
  #### Vitamin B12 
 
- Only bacterial cells retain the capacity to synthesize [B12](https://en.wikipedia.org/wiki/Vitamin_B12), but almost all organisms, except plants and fungi, require B12. In humans, the absorption of B12 from food is a highly complicated process, and is frequently compromised with aging, such that about a quarter of community-living elderly are B12-deficient. For nursing home residents, the proportion is 46% [<a id="a64">[64](#f64)</a>]. 
+ Only bacterial cells retain the capacity to synthesize [B12](https://en.wikipedia.org/wiki/Vitamin_B12), but almost all organisms, except plants and fungi, require B12. In humans, the absorption of B12 from food is a highly complicated process, and is frequently compromised with aging, such that about a quarter of community-living elderly are B12-deficient. For nursing home residents, the proportion is 46% [61]. 
 
- In the wild, the consequences of B12 deficiency, which include anemia, lower extremity weakness, loss of postural balance, and dementia [<a id="a65">[65](#f65)</a>], would quickly result in death. This suggests that the high likelihood for B12 deficiency in elderly has been “built in” by evolution as another mechanism to kill off the eldest generation. 
+ In the wild, the consequences of B12 deficiency, which include anemia, lower extremity weakness, loss of postural balance, and dementia [62], would quickly result in death. This suggests that the high likelihood for B12 deficiency in elderly has been “built in” by evolution as another mechanism to kill off the eldest generation. 
 
  As animal-based foods are the only sources of food B12, a vegan or quasi-vegan diet such as the methionine and protein restricted diets suggested above is already likely to result in B12 deficiency, unless supplements are taken. 
 
- Since no bad effects of excessive B12 supplementation have so far been identified [<a id="a66">[66](#f66)</a>], I often recommend to my older patients to take 1000 mcg daily [<a id="a67">[67](#f67)</a>]. Unfortunately, in individuals who have pernicious anemia, even this large dose may be insufficient. In these situations, weekly injections of 1000 mcg B12 may be necessary. A nonprescription alternative may be intranasal hydroxocobalamin spray [<a id="a68">[68](#f68)</a>] (available online [here](http://www.detoxpeople.eu/index.php?l=product_detail&p=673) or [here](http://www.detoxpeople.eu/index.php?l=product_detail&p=8324)). 
+ Since no bad effects of excessive B12 supplementation have so far been identified [63], I often recommend to my older patients to take 1000 mcg daily [64]. Unfortunately, in individuals who have pernicious anemia, even this large dose may be insufficient. In these situations, weekly injections of 1000 mcg B12 may be necessary. A nonprescription alternative may be intranasal hydroxocobalamin spray [65] (available online [here](http://www.detoxpeople.eu/index.php?l=product_detail&p=673) or [here](http://www.detoxpeople.eu/index.php?l=product_detail&p=8324)). 
 
  #### Omega-3 fatty acids 
 
- Although the research evidence is mixed on whether fish-derived [omega-3 fatty acid](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) supplements are beneficial for a variety of conditions, omega-3’s are believed by many scientists to be important for brain, psychiatric, and cardiovascular health, and regular consumption of [oily fish](https://en.wikipedia.org/wiki/Oily_fish) is associated with decreased mortality [<a id="a69">[69](#f69)</a>]. 
+ Although the research evidence is mixed on whether fish-derived [omega-3 fatty acid](https://en.wikipedia.org/wiki/Omega-3_fatty_acid) supplements are beneficial for a variety of conditions, omega-3’s are believed by many scientists to be important for brain, psychiatric, and cardiovascular health, and regular consumption of [oily fish](https://en.wikipedia.org/wiki/Oily_fish) is associated with decreased mortality [66]. 
 
  Given that methionine restriction and protein restriction will both severely limit fish intake, I take an omega-3 supplement. 
 
  #### Choline 
 
- Humans eating diets low in [choline](https://en.wikipedia.org/wiki/Choline) develop fatty liver and liver damage [<a id="a70">[70](#f70)</a>]. Adequate dietary intakes for adults are considered to be 550 mg per day [<a id="a71">[71](#f71)</a>], but this is based on very little evidence. Since good dietary sources of choline, such as eggs or liver, are not part of a methionine restricted diet, I take a capsule of triple [lecithin](https://en.wikipedia.org/wiki/Lecithin) containing 420 mg of choline, every other day. 
+ Humans eating diets low in [choline](https://en.wikipedia.org/wiki/Choline) develop fatty liver and liver damage [67]. Adequate dietary intakes for adults are considered to be 550 mg per day [68], but this is based on very little evidence. Since good dietary sources of choline, such as eggs or liver, are not part of a methionine restricted diet, I take a capsule of triple [lecithin](https://en.wikipedia.org/wiki/Lecithin) containing 420 mg of choline, every other day. 
 
  #### Vitamin D 
 
- Vitamin D consists of a number of compounds; in humans, the most important are vitamin D3 ([cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)) and D2 ([ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)). As only a few foods contain vitamin D, the most important source is synthesis of D3 in the skin through the action of ultraviolet light. Given the concern about skin cancer, this has become an unreliable source for many people who either avoid sun exposure or use sunblocking agents. A Cochrane review in 2014 suggests that Vitamin D3 decreases mortality in elderly people [<a id="a72">[72](#f72)</a>]. 
+ Vitamin D consists of a number of compounds; in humans, the most important are vitamin D3 ([cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)) and D2 ([ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)). As only a few foods contain vitamin D, the most important source is synthesis of D3 in the skin through the action of ultraviolet light. Given the concern about skin cancer, this has become an unreliable source for many people who either avoid sun exposure or use sunblocking agents. A Cochrane review in 2014 suggests that Vitamin D3 decreases mortality in elderly people [69]. 
 
  #### Magnesium 
 
- Low [magnesium](https://en.wikipedia.org/wiki/Magnesium#Biological_roles) intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated [C-reactive protein](https://en.wikipedia.org/wiki/C-reactive_protein), hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [<a id="a73">[73](#f73)</a>]. The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount [<a id="a74">[74](#f74)</a>]. The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [<a id="a75">[75](#f75)</a>]. As the healthy kidney is very effective at excreting magnesium, [hypermagnesaemia](https://en.wikipedia.org/wiki/Hypermagnesemia) is uncommon. 
+ Low [magnesium](https://en.wikipedia.org/wiki/Magnesium#Biological_roles) intakes and blood levels have been associated with type 2 diabetes, metabolic syndrome, elevated [C-reactive protein](https://en.wikipedia.org/wiki/C-reactive_protein), hypertension, atherosclerotic vascular disease, sudden cardiac death, osteoporosis, migraine headache, asthma, and colon cancer [70]. The recommended dietary allowance is about 300 mg per day, but less than half the U.S. population consumes the required amount [70]. The richest dietary sources are whole grain cereals, green vegetables, beans, nuts, and seafood [71]. As the healthy kidney is very effective at excreting magnesium, [hypermagnesaemia](https://en.wikipedia.org/wiki/Hypermagnesemia) is uncommon. 
 
- Supplemental magnesium for 12 weeks has been shown to improve physical performance in healthy elderly women [<a id="a76">[76](#f76)</a>]. 
+ Supplemental magnesium for 12 weeks has been shown to improve physical performance in healthy elderly women [72]. 
 
  Because the low methionine, low protein diet excludes a number of rich dietary sources of magnesium, I take a supplement of magnesium citrate 150 mg every other day. 
 
  #### Boron 
 
- [Boron](https://en.wikipedia.org/wiki/Boron#Biological_role) affects bone growth, alleviates arthritic symptoms, and is associated with reduced risk for some cancer types [<a id="a77">[77](#f77)</a>]. Other beneficial effects have been recently reviewed [<a id="a78">[78](#f78)</a>]. Although boron is found in fruits and vegetables, especially nuts and pulses, soil depletion of boron is the most widespread micronutrient deficiency around the world and affects availability of dietary boron.<span class="Apple-converted-space"> </span> 
+ [Boron](https://en.wikipedia.org/wiki/Boron#Biological_role) affects bone growth, alleviates arthritic symptoms, and is associated with reduced risk for some cancer types [73]. Other beneficial effects have been recently reviewed [74]. Although boron is found in fruits and vegetables, especially nuts and pulses, soil depletion of boron is the most widespread micronutrient deficiency around the world and affects availability of dietary boron.<span class="Apple-converted-space"> </span> 
 
- Dietary boron reduces insulin levels in chicks and rats [<a id="a79">[79](#f79)</a>]. 
+ Dietary boron reduces insulin levels in chicks and rats [75]. 
 
- It is believed that boron intake needs to be 3 mg/day or higher [<a id="a80">[80](#f80)</a>]. The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults (U.S. National Library of Medicine). I take a supplement of 3 mg every other day. 
+ It is believed that boron intake needs to be 3 mg/day or higher [74]. The Tolerable Upper Intake Level (UL), the maximum dose at which no harmful effects would be expected, is 20 mg per day for adults (U.S. National Library of Medicine). I take a supplement of 3 mg every other day. 
 
   ## Things to avoid 
 
@@ -200,7 +200,7 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  #### Artificial sweeteners 
 
- Even [artificial sweeteners](https://en.wikipedia.org/wiki/Sugar_substitute) stimulate insulin secretion [<a id="a81">[81](#f81)</a>] and contribute to obesity [<a id="a82">[82](#f82)</a>]. 
+ Even [artificial sweeteners](https://en.wikipedia.org/wiki/Sugar_substitute) stimulate insulin secretion [76] and contribute to obesity [77]. 
 
  #### High glycemic index foods 
 
@@ -208,37 +208,37 @@ Dietary methionine restriction (MR) has been found to be effective at treating c
 
  ### Supplements 
 
- In general, and with the exceptions listed above, I believe that taking supplements, even those that are found naturally in foods, may not be such a good idea when we’re older. This is not to say that the particular molecule is bad for you, just that when a molecule is obtained as a component of the foods we’re eating, it may work differently than when taken in concentrated form as a supplement. Additionally, high-potency supplements have a higher risk of interacting with medications [<a id="a83">[83](#f83)</a>]. 
+ In general, and with the exceptions listed above, I believe that taking supplements, even those that are found naturally in foods, may not be such a good idea when we’re older. This is not to say that the particular molecule is bad for you, just that when a molecule is obtained as a component of the foods we’re eating, it may work differently than when taken in concentrated form as a supplement. Additionally, high-potency supplements have a higher risk of interacting with medications [78]. 
 
- In the case of anti-oxidant supplements, there is some evidence that these can be bad for our health when we’re older. For example, folic acid supplements were found to increase the risk of prostate cancer by 2.63 times compared to placebo, whereas folic acid obtained from foods decreased cancer risk [<a id="a84">[84](#f84)</a>]. A review of vitamin and mineral supplementation [<a id="a85">[85](#f85)</a>] suggests that higher than standard doses of some vitamins or minerals could enhance carcinogenesis or worsen survival in patients with cancer. 
+ In the case of anti-oxidant supplements, there is some evidence that these can be bad for our health when we’re older. For example, folic acid supplements were found to increase the risk of prostate cancer by 2.63 times compared to placebo, whereas folic acid obtained from foods decreased cancer risk [79]. A review of vitamin and mineral supplementation [80] suggests that higher than standard doses of some vitamins or minerals could enhance carcinogenesis or worsen survival in patients with cancer. 
 
- Again for folic acid, supplements were found to be associated with increased mortality in a study of 55,000 middle-aged Danes [<a id="a86">[86](#f86)</a>].  
+ Again for folic acid, supplements were found to be associated with increased mortality in a study of 55,000 middle-aged Danes [81].  
 
- Taking vitamin E ([alpha-tocopherol](https://en.wikipedia.org/wiki/Alpha-Tocopherol)) supplements also resulted in higher prostate cancer incidence [<a id="a87">[87](#f87)</a>]. 
+ Taking vitamin E ([alpha-tocopherol](https://en.wikipedia.org/wiki/Alpha-Tocopherol)) supplements also resulted in higher prostate cancer incidence [82]. 
 
- A meta-analysis showed that [vitamin A](https://en.wikipedia.org/wiki/Vitamin_A) supplementation increased cancer risk [<a id="a88">[88](#f88)</a>]. 
+ A meta-analysis showed that [vitamin A](https://en.wikipedia.org/wiki/Vitamin_A) supplementation increased cancer risk [83]. 
 
- [Calcium](https://en.wikipedia.org/wiki/Calcium_in_biology) supplementation exceeding 1500 mg per day was associated with a higher risk of advanced and fatal prostate cancer [<a id="a89">[89](#f89)</a>]. 
+ [Calcium](https://en.wikipedia.org/wiki/Calcium_in_biology) supplementation exceeding 1500 mg per day was associated with a higher risk of advanced and fatal prostate cancer [84]. 
 
- Another review asserts “Numerous studies published over more than a decade have linked some supplements (including vitamins E, C, D, A, and B, as well as [selenium](https://en.wikipedia.org/wiki/Selenium_in_biology)) to no health benefits or even to adverse health effects” [<a id="a90">[90](#f90)</a>]. 
+ Another review asserts “Numerous studies published over more than a decade have linked some supplements (including vitamins E, C, D, A, and B, as well as [selenium](https://en.wikipedia.org/wiki/Selenium_in_biology)) to no health benefits or even to adverse health effects” [85]. 
 
- [Beta-carotene](https://en.wikipedia.org/wiki/Beta-Carotene) in food may reduce lung cancer risk, but “A number of intervention studies in smokers have unexpectedly reported increased lung tumor rates after high, long-term, beta-carotene supplementation” [<a id="a91">[91](#f91)</a>]. 
+ [Beta-carotene](https://en.wikipedia.org/wiki/Beta-Carotene) in food may reduce lung cancer risk, but “A number of intervention studies in smokers have unexpectedly reported increased lung tumor rates after high, long-term, beta-carotene supplementation” [86]. 
 
- A large intervention trial of vitamin and mineral supplements involving almost 30,000 adults in China found that a combination of selenium, vitamin E, and beta-carotene decreased esophageal cancer deaths by 17% for participants younger than 55 years of age, but increased deaths by 14% for those older than 55 [<a id="a92">[92](#f92)</a>]. The same study showed that vitamin A and [zinc](https://en.wikipedia.org/wiki/Zinc#Biological_role) supplementation was associated with increased total and stroke mortality. 
+ A large intervention trial of vitamin and mineral supplements involving almost 30,000 adults in China found that a combination of selenium, vitamin E, and beta-carotene decreased esophageal cancer deaths by 17% for participants younger than 55 years of age, but increased deaths by 14% for those older than 55 [87]. The same study showed that vitamin A and [zinc](https://en.wikipedia.org/wiki/Zinc#Biological_role) supplementation was associated with increased total and stroke mortality. 
 
- Finally, a review of the literature on vitamin C supplementation and lifespan in a variety of model organisms found that some studies suggest an increase in lifespan and other a decrease [<a id="a93">[93](#f93)</a>]. 
+ Finally, a review of the literature on vitamin C supplementation and lifespan in a variety of model organisms found that some studies suggest an increase in lifespan and other a decrease [88]. 
 
  ### Other 
 
  #### Bisphenol A in the environment 
 
- [Bisphenol A](https://en.wikipedia.org/wiki/Bisphenol_A) (BPA) may no longer be used in Canada for the manufacture of baby bottles, because it is known to disrupt hormones, especially estrogen. Perhaps less well known is that BPA stimulates insulin secretion [<a id="a94">[94](#f94)</a>]. BPA is ubiquitous in our environment, as an important use is in the coating on paper used for receipts produced by thermal printers [<a id="a95">[95](#f95)</a>], whether at the grocery store, the gas pump, or anywhere one uses a credit card. Other thermally printed items include bus and train tickets, parking tickets, boarding passes, lottery slips and vegetable weight stickers. BPA has also been detected in paper products other than thermal paper including currency bills, food contact papers, food cartons, napkins, paper towels, and toilet paper. These products are typically made from recycled paper which includes thermal printer paper. 
+ [Bisphenol A](https://en.wikipedia.org/wiki/Bisphenol_A) (BPA) may no longer be used in Canada for the manufacture of baby bottles, because it is known to disrupt hormones, especially estrogen. Perhaps less well known is that BPA stimulates insulin secretion [89]. BPA is ubiquitous in our environment, as an important use is in the coating on paper used for receipts produced by thermal printers [90], whether at the grocery store, the gas pump, or anywhere one uses a credit card. Other thermally printed items include bus and train tickets, parking tickets, boarding passes, lottery slips and vegetable weight stickers. BPA has also been detected in paper products other than thermal paper including currency bills, food contact papers, food cartons, napkins, paper towels, and toilet paper. These products are typically made from recycled paper which includes thermal printer paper. 
 
  Handling any of these paper products can cause BPA to be absorbed through the skin. Greasy skin, including use of hand lotions, increases skin absorption. The alcohol found in many hand sanitizer products also increases absorption. Hand washing only removes some of the BPA from the skin. Both epidemiologic studies as well as laboratory studies with animals suggest that current environmental exposures to BPA may be contributing to the current worldwide epidemic of obesity and type 2 diabetes. 
 
  #### Blue light at night 
 
- Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes [<a id="a96">[96](#f96)</a>]. The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion [<a id="a97">[97](#f97)</a>], exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
+ Many studies have shown that exposure to light at night, eg for shift workers, increases risk for cancer, heart disease, obesity and diabetes [91]. The effect is most pronounced when the light contains blue light of around 480 nm wavelength. This is the light which most strongly suppresses melatonin. Because melatonin reduces insulin secretion [92], exposure to blue light at night results in higher insulin levels, which contributes to the conditions of aging. The LED backlighting of flatscreen TVs, computer monitors, smartphones and tablets, is typically rich in blue light, and very likely contributes to the obesity epidemic afflicting young people. 
  
  #### Short sleep or shift work 
 
