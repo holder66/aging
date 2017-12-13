@@ -2,7 +2,7 @@
 
 # “Why we get old and die, and what to do about it”  
 
- ## Executive Summary 
+## Executive Summary 
 
  Evolution arranges for members of a species to do the work of reproduction and then to get out of the way, that is, die, in order to not compete for resources with their offspring. Aging is the mechanism used by evolution to ensure a rapid death in the wild, once the reproductive phase is over, for sexually reproducing species. However, when food is scarce, longevity increases and reproduction slows down, awaiting the return of good times. [Insulin](https://en.wikipedia.org/wiki/Insulin) is a signal that early in life promotes growth and reproduction but later on promotes aging, by its action of suppressing those repair and replacement mechanisms in each cell which counteract the wear and tear that is aging. 
 
